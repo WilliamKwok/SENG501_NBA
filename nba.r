@@ -1,3 +1,5 @@
+# NBA bball
+
 ###### This part of the code was from the original file
 rm(list = ls()) # clear the history from the previous run (i.e. variables)
 cat("\014")# Clear Console
@@ -35,7 +37,10 @@ coachesCareer.in.format <-
 		col.names = names(coachesCareer.col.classes)
 	)
 
-	
+#coachesCareer
+coachesCareer.hdfs<-from.dfs('/user/biadmin/coachescareer.csv',format=coachesCareer.in.format)
+coachesCareer_data<-coachesCareer.hdfs$val
+
 #****************** CoachSeason ****************
 
 coachSeason.col.classes <-
@@ -49,6 +54,10 @@ coachSeason.in.format <-
 		col.names = names(coachSeason.col.classes)
 	)
 	
+#coachSeason
+coachSeason.hdfs<-from.dfs('/user/biadmin/coachseason.csv',format=coachSeason.in.format)
+coachSeason_data<-coachSeason.hdfs$val
+	
 #****************** Draft *********************
 draft.col.classes <-
 	c(draft_year="integer",draft_round="integer",selection="integer",team="factor",firstname="factor",lastname="factor",ilkid="factor", draft_from="factor", leag="factor"
@@ -61,6 +70,10 @@ draft.in.format <-
 		col.names = names(draft.col.classes)
 	)
 
+#draft
+draft.hdfs<-from.dfs('/user/biadmin/draft.csv',format=draft.in.format)
+draft_data<-draft.hdfs$val
+	
 #***************** playerAllstar ***************
 playerAllstar <-
 	c(ilkid="factor",year="integer",firstname="factor",lastname="factor",conference="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
@@ -75,6 +88,9 @@ playerAllstar.in.format <-
 		col.names = names(playerAllstar.col.classes)
 	)
 	
+#playerAllstar
+playerAllstar.hdfs<-from.dfs('/user/biadmin/playerallstar.csv',format=playerAllstar.in.format)
+playerAllstar_data<-playerAllstar.hdfs$val
 
 #***************** playerPlayoff ****************
 playerPlayoff <-
@@ -90,6 +106,10 @@ playerPlayoff.in.format <-
 		col.names = names(playerPlayoff.col.classes)
 	)
 
+#playerPlayoff
+playerPlayoff.hdfs<-from.dfs('/user/biadmin/playerplayoff.csv',format=playerPlayoff.in.format)
+playerPlayoff_data<-playerPlayoff.hdfs$val
+	
 #****************** playerPlayoffCareer *********
 playerPlayoffCareer <-
 	c(ilkid="factor",year="integer",firstname="factor",lastname="factor",team="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
@@ -104,6 +124,9 @@ playerPlayoffCareer.in.format <-
 		col.names = names(playerPlayoffCareerC.col.classes)
 	)
 	
+#playerPlayoffCareer
+playerPlayoffCareer.hdfs<-from.dfs('/user/biadmin/playerplayoffcareer.csv',format=playerPlayoffCareer.in.format)
+playerPlayoffCareer_data<-playerPlayoffCareer.hdfs$val
 	
 #****************** playerRegularSeason **********
 playerRegularSeason <-
@@ -119,6 +142,9 @@ playerRegularSeason.in.format <-
 		col.names = names(playerRegularSeason.col.classes)
 	)
 	
+#playerRegularSeason
+playerRegularSeason.hdfs<-from.dfs('/user/biadmin/playerregularseason.csv',format=playerRegularSeason.in.format)
+playerRegularSeason_data<-playerRegularSeason.hdfs$val
 	
 #****************** playerRegularSeasonCareer ****************
 playerRegularSeasonCareer <-
@@ -134,6 +160,11 @@ playerRegularSeasonCareer.in.format <-
 		col.names = names(playerRegularSeasonCareer.col.classes)
 	)	
 
+#playerRegularSeasonCareer
+playerRegularSeasonCareer.hdfs<-from.dfs('/user/biadmin/playerregularseasoncareer.csv',format=playerRegularSeasonCareer.in.format)
+playerRegularSeasonCareer_data<-playerRegularSeasonCareer.hdfs$val
+	
+	
 #****************** PLAYER *********************
 # define for data format for player
 player.col.classes <-
@@ -148,6 +179,9 @@ player.in.format <-
 		col.names = names(player.col.classes)
 	)
 
+#player
+player.hdfs<-from.dfs('/user/biadmin/player.csv',format=player.in.format)
+player_data<-player.hdfs$val
 
 #****************** TEAM ***********************
 
@@ -163,7 +197,11 @@ team.in.format <-
     col.names = names(team.col.classes)
   )
 
-  
+#############Read The file using from.dfs
+team.hdfs<-from.dfs('/user/biadmin/teams.csv',format=team.in.format) # read the file with a specified format
+team_data<-team.hdfs$val
+
+
 #***************** teamSeason *******************
 teamSeason.col.classes <- 
 	c(team="factor",year="integer",leag="factor",o_fgm="integer",o_fga="integer",o_fta="integer",o_oreb="integer",o_dreb="integer",o_reb="integer", o_asts="integer",
@@ -179,7 +217,12 @@ teamSeason.in.format <-
 		col.names = names(teamSeason.col.classes)
 	)
   
+#teamSeason
+teamSeason.hdfs<-from.dfs('/user/biadmin/teamseason.csv',format=teamSeason.in.format)
+teamSeason_data<-teamSeason.hdfs$val
   
-#############Read The file using from.dfs
-team.hdfs<-from.dfs('/user/biadmin/teams.csv',format=team.in.format) # read the file with a specified format
-team_data<-team.hdfs$val
+
+
+
+
+

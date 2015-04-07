@@ -34,12 +34,12 @@
 1947,0,0,nyk,Ray,Evans,,Kansas,N
 1947,0,0,nyk,Andy,Duncan,DuncaAn01,William & Mary,N
 1947,0,0,nyk,Ed,Golub,,Norfolk Naval Training Center,N
-1947,0,0,nyk,Ron,Livingston,,St. Mary's (CA),N
+1947,0,0,nyk,Ron,Livingston,,St. Marys (CA),N
 1947,0,0,nyk,Dan,Miller,,St. Louis,N
 1947,0,0,nyk,Wat,Misaka,MisakWa01,Utah,N
 1947,0,0,phi,Frank,Crossin,CrossFr01,Pennsylvania,N
 1947,0,0,phi,Ed,Koffenberger,,Duke,N
-1947,0,0,phi,Norman,Butz,,St. Joseph's (PA),N
+1947,0,0,phi,Norman,Butz,,St. Josephs (PA),N
 1947,0,0,phi,Jim,Kaeding,,York,N
 1947,0,0,phi,Jim,Pollard,PollaJi01,Stanford,N
 1947,0,0,pit,Clifton,McNeeley,,Texas Western,N
@@ -50,7 +50,7 @@
 1947,0,0,pit,Fred,Nagy,NagyFr01 ,Akron,N
 1947,0,0,pit,George,Brown,,,N
 1947,0,0,pro,Walt,Dropo,,Connecticut,N
-1947,0,0,pro,Roy,Lipscomb,,St. Mary's,N
+1947,0,0,pro,Roy,Lipscomb,,St. Marys,N
 1947,0,0,pro,John,Mills,MillsJo01,Hofstra,N
 1947,0,0,pro,Al,Nichols,,Rhode Island State,N
 1947,0,0,pro,Dick,Furey,,St. Thomas (MN),N
@@ -69,9 +69,9 @@
 1947,0,0,TO1,Frank,Broyles,,Georgia Tech,N
 1947,0,0,TO1,Wimpy,Quinn,,Oregon,N
 1947,0,0,TO1,Paul,Hoffman,HoffmPa01,Purdue,N
-1947,0,0,WSC,Dick,O'Keefe,OKeeDi01 ,Santa Clara,N
+1947,0,0,WSC,Dick,OKeefe,OKeeDi01 ,Santa Clara,N
 1947,0,0,WSC,Jack,Tingle,TinglJa01,Kentucky,N
-1947,0,0,WSC,Bill,Burke,,St. Mary's,N
+1947,0,0,WSC,Bill,Burke,,St. Marys,N
 1947,0,0,WSC,Abel,Rodriguez,,San Francisco,N
 1947,0,0,WSC,Paul,Cloyd,,Wisconsin,N
 1947,0,0,WSC,Mat,Zunic,ZunicMa01,George Washington,N
@@ -233,7 +233,7 @@
 1949,1,0,ftw,Bob,Harris,HarriBo01,Oklahoma State,N
 1949,1,0,INI,Alex,Groza,GrozaAl01,Kentucky,N
 1949,1,0,Min,Vern,Mikkelsen,MikkeVe01,Hamline,N
-1949,1,0,nyk,Dick,McGuire,McGuiDi01,St. John's,N
+1949,1,0,nyk,Dick,McGuire,McGuiDi01,St. Johns,N
 1949,1,0,Phi,Vern,Gardner,GardnVe01,Utah,N
 1949,1,0,Pro,Howie,Shannon,ShannHo01,Kansas State,N
 1949,1,0,Roc,Frank,Saul,SaulFr01 ,Seton Hall,N
@@ -287,7 +287,7 @@
 1950,2,0,Nyk,Herb,Scherer,ScherHe01,Long Island,N
 1950,2,0,phi,Ed,Dahler,DahleEd01,Duquesne,N
 1950,2,0,roc,George,Stanich,,UCLA,N
-1950,2,0,syr,Gerry,Calabrese,CalabGe01,St. John's,N
+1950,2,0,syr,Gerry,Calabrese,CalabGe01,St. Johns,N
 1950,2,0,tri,Ed,Gayda,GaydaEd01,Washington State,N
 1950,2,0,WSC,Bill,Sharman,SharmBi01,Southern California,N
 1950,3,0,ba1,Dick,Dickey,DickeDi01,North Carolina State,N
@@ -309,7 +309,7 @@
 1950,4,0,INI,Jim,Line,,Kentucky,N
 1950,4,0,MIE,Bud,Grant,GrantBu01,Minnesota,N
 1950,4,0,Nyk,Joe,Ossola,,St. Louis,N
-1950,4,0,phi,Paul,Sensky,,St. Joseph's (PA),N
+1950,4,0,phi,Paul,Sensky,,St. Josephs (PA),N
 1950,4,0,roc,Chet,Giermak,,William & Mary,N
 1950,4,0,syr,Paul,Merchant,,Oklahoma,N
 1950,4,0,tri,Paul,Hicks,,Eastern Kentucky,N
@@ -432,7 +432,7 @@
 1951,5,3,INI,Bob,Pierce,,Nebraska,N
 1951,5,4,FtW,Leo,Johnson,,Arizona,N
 1951,5,5,Syr,Glen,Anderson,,Colorado A&M,N
-1951,5,6,NYK,Tom,Smith,SmithTo02,St. Peter's,N
+1951,5,6,NYK,Tom,Smith,SmithTo02,St. Peters,N
 1951,5,7,Bos,Rip,Gish,,Western Kentucky,N
 1951,5,8,ROC,Dan,Bagley,,Notre Dame,N
 1951,5,9,PH1,Mike,Kearns,KearnMi01,Princeton,N
@@ -442,7 +442,7 @@
 1951,6,3,INI,Marv,Johnson,,Wheaton,N
 1951,6,4,FtW,Frank,Clasbeek,,Iowa,N
 1951,6,5,Syr,Bob,Wheeler,,Idaho,N
-1951,6,6,NYK,Al,McGuire,McGuiAl01,St. John's,N
+1951,6,6,NYK,Al,McGuire,McGuiAl01,St. Johns,N
 1951,6,7,Bos,Jim,Luisi,LuisiJi01,St. Francis (NY),N
 1951,6,8,ROC,Jim,Ove,,Valparaiso,N
 1951,6,9,PH1,Bob,Swails,,Indiana Central,N
@@ -455,7 +455,7 @@
 1951,7,6,NYK,Sid,Ryen,,Denver,N
 1951,7,7,Bos,John,Azary,,Columbia,N
 1951,7,8,ROC,John,Brown,,Southern Methodist,N
-1951,7,9,PH1,George,Dempsey,DempsGe01,King's,N
+1951,7,9,PH1,George,Dempsey,DempsGe01,Kings,N
 1951,7,10,MIE,Ed,Head,,Kansas State,N
 1951,8,1,ba1,Bill,Harper,,Oregon State,N
 1951,8,2,TRI,Aaron,Preece,,Bradley,N
@@ -498,7 +498,7 @@
 1952,0,0,INI,Gene,Rhodes,RhodeGe01,Western Kentucky,N
 1952,0,0,INI,Dale,Toft,,Denver,N
 1952,0,0,INI,Lucian,Whitaker,WhitaLu01,Kentucky,N
-1952,0,0,INI,Bob,Zawoluk,ZawolBo01,St. John's,N
+1952,0,0,INI,Bob,Zawoluk,ZawolBo01,St. Johns,N
 1952,0,0,INI,Gordon,Stauffer,,Michigan State,N
 1952,0,0,MI1,Pete,Brewster,,Purdue,N
 1952,0,0,MI1,Roger,Johnson,,Arizona,N
@@ -529,7 +529,7 @@
 1952,0,0,NYK,Roy,Belliveau,,Seton Hall,N
 1952,0,0,NYK,Dick,Bunt,BuntDi01 ,New York University,N
 1952,0,0,NYK,Bert,Cook,CookBe01 ,Utah State,N
-1952,0,0,NYK,Ben,Gibson,,St. Mary's (CA),N
+1952,0,0,NYK,Ben,Gibson,,St. Marys (CA),N
 1952,0,0,NYK,Bud,Julian,,SW Missouri State,N
 1952,0,0,NYK,Paul,Sullivan,,Alabama,N
 1952,0,0,NYK,Dick,Surhoff,SurhoDi01,Long Island,N
@@ -544,9 +544,9 @@
 1952,0,0,PHI,Ben,Stewart,,Villanova,N
 1952,0,0,ROC,Bryant,Ivey,,Alabama,N
 1952,0,0,ROC,Leroy,Leslie,,Notre Dame,N
-1952,0,0,ROC,Ronnie,MacGilvray,MacGiRo01,St. John's,N
+1952,0,0,ROC,Ronnie,MacGilvray,MacGiRo01,St. Johns,N
 1952,0,0,ROC,Jewell,McDowell,,Texas A&M,N
-1952,0,0,ROC,Jack,McMahon,McMahJa01,St. John's,N
+1952,0,0,ROC,Jack,McMahon,McMahJa01,St. Johns,N
 1952,0,0,ROC,Sam,Miranda,,Indiana,N
 1952,0,0,ROC,Jerry,Romney,,Brigham Young,N
 1952,0,0,ROC,Ray,Royce,,Houston,N
@@ -698,9 +698,9 @@
 1953,10,0,BOS,Tom,Lillis,,St. Louis,N
 1953,10,0,PHI,Toar,Hester,,Centenary,N
 1953,11,0,BOS,Gil,Reich,,Kansas,N
-1953,11,0,PHI,John,Doogan,,St. Joseph's (PA),N
+1953,11,0,PHI,John,Doogan,,St. Josephs (PA),N
 1953,12,0,BOS,Jim,Dogerty,,Whitworth,N
-1953,12,0,PHI,Charles,Duffley,,St. Anselm's,N
+1953,12,0,PHI,Charles,Duffley,,St. Anselms,N
 1954,1,1,ba1,Frank,Selvy,SelvyFr01,Furman,N
 1954,1,2,MI1,Bob,Pettit,PettiBo01,Louisiana State,N
 1954,1,3,PH1,Gene,Shue,ShueGe01 ,Maryland,N
@@ -739,7 +739,7 @@
 1954,4,9,MIE,Gene,Schwinger,,Rice,N
 1954,5,1,ba1,Lou,Scott,,Indiana,N
 1954,5,2,MI1,Paul,Ebert,,Ohio State,N
-1954,5,3,PH1,Rudy,D'Emilio,,Duke,N
+1954,5,3,PH1,Rudy,DEmilio,,Duke,N
 1954,5,4,FtW,Dutch,Burch,,Pittsburgh,N
 1954,5,5,Bos,Troy,Burris,,West Texas,N
 1954,5,6,Syr,Paul,Pottenburgh,,Siena,N
@@ -752,7 +752,7 @@
 1954,6,4,FtW,Charles,Kraak,,Indiana,N
 1954,6,5,Bos,Otto,Krieghauser,,Washington (MO),N
 1954,6,6,Syr,Norman,Pott,,Wheaton,N
-1954,6,7,ROC,James,Davis,DavisJa01,St. John's,N
+1954,6,7,ROC,James,Davis,DavisJa01,St. Johns,N
 1954,6,8,NYK,Ron,Rivers,,Wyoming,N
 1954,6,9,MIE,Nick,Revon,,Mississippi Southern,N
 1954,7,1,ba1,Joe,Pehanick,,Seattle,N
@@ -762,7 +762,7 @@
 1954,7,5,Bos,Paul,Estergaard,,Bradley,N
 1954,7,6,Syr,Gus,Levett,,Franklin & Marshall,N
 1954,7,7,ROC,Bill,Hull,,Utah State,N
-1954,7,8,NYK,Solly,Walker,,St. John's,N
+1954,7,8,NYK,Solly,Walker,,St. Johns,N
 1954,7,9,MIE,Dan,Finch,,Vanderbilt,N
 1954,8,1,ba1,Harry,Brooks,,Seton Hall,N
 1954,8,2,MI1,Dick,Nunneley,,Tulsa,N
@@ -792,7 +792,7 @@
 1954,10,9,MIE,John,Blever,,Northwestern,N
 1954,11,1,ba1,Elliott,Karver,,George Washington,N
 1954,11,2,MI1,Jerry,Domerschick,,CCNY,N
-1954,11,3,PH1,Frank,O'Hara,,La Salle,N
+1954,11,3,PH1,Frank,OHara,,La Salle,N
 1954,11,4,FtW,Forrest,Jackson,,Taylor,N
 1954,11,5,Bos,Bill,Johnson,,Nebraska,N
 1954,11,7,ROC,John,Paxson,,Dayton,N
@@ -833,7 +833,7 @@
 1955,0,0,SYR,Ed,Galvin,,Loyola (LA),N
 1955,0,0,SYR,Stan,Glowaski,,Seattle,N
 1955,0,0,SYR,Russ,Lawler,,Stanford,N
-1955,0,0,SYR,Marty,Satalino,,St. John's,N
+1955,0,0,SYR,Marty,Satalino,,St. Johns,N
 1955,0,0,SYR,Ron,Tomsic,,Stanford,N
 1955,1,1,MI1,Dick,Ricketts,RickeDi01,Duquesne,N
 1955,1,2,ROC,Maurice,Stokes,StokeMa01,St. Francis (PA),N
@@ -867,7 +867,7 @@
 1955,4,6,MIE,John,Miller,,Ohio State,N
 1955,4,7,FtW,Dick,Howard,,Western Reserve,N
 1955,4,8,Syr,Frank,Ehmann,,Northwestern,N
-1955,5,1,MI1,Bill,Bagley,,St. Mary's (CA),N
+1955,5,1,MI1,Bill,Bagley,,St. Marys (CA),N
 1955,5,2,ROC,Bill,Evans,,Kentucky,N
 1955,5,3,PH1,Jack,Devine,,Villanova,N
 1955,5,4,Bos,Bob,Patterson,,Tulsa,N
@@ -996,12 +996,12 @@
 1957,1,6,PH1,Len,Rosenbluth,RosenLe01,North Carolina,N
 1957,1,7,Syr,George,BonSalle,BONSAGE01,Illinois,N
 1957,1,8,Bos,Sam,Jones,JonesSa01,North Carolina Central,N
-1957,2,1,Cin,Dick,Duckett,DuckeDi01,St. John's,N
+1957,2,1,Cin,Dick,Duckett,DuckeDi01,St. Johns,N
 1957,2,2,Det,Bob,McCoy,,Grambling,N
 1957,2,3,MIE,Harvey,Schmidt,,Illinois,N
 1957,2,4,StL,Jim,Palmer,PalmeJi01,Dayton,N
 1957,2,5,NYK,Larry,Friend,FrienLa01,California,N
-1957,2,6,PH1,Jack,Sullivan,,Mount St. Mary's,N
+1957,2,6,PH1,Jack,Sullivan,,Mount St. Marys,N
 1957,2,7,Syr,Jim,Morgan,,Louisville,N
 1957,2,8,Bos,Dick,ONeal,,Texas Christian,N
 1957,3,1,Cin,Jerry,Paulson,PaulsJe01,Manhattan,N
@@ -1013,11 +1013,11 @@
 1957,3,7,Syr,Vince,Cohen,,Syracuse,N
 1957,3,8,Bos,Chuck,Schramm,,Western Illinois,N
 1957,4,1,Cin,Jed,Dormeyer,,Minnesota,N
-1957,4,2,Det,Kurt,Englebert,,St. Joseph's (PA),N
+1957,4,2,Det,Kurt,Englebert,,St. Josephs (PA),N
 1957,4,3,MIE,George,Brown,BrownGe01,Wayne State,N
 1957,4,4,StL,Hank,Nowak,,Canisius,N
 1957,4,5,NYK,Rayford,Wells,,Lenoir Rhyne,N
-1957,4,6,PH1,Ray,Radziszewski,RadziRa01,St. Joseph's (PA),N
+1957,4,6,PH1,Ray,Radziszewski,RadziRa01,St. Josephs (PA),N
 1957,4,7,Syr,Jerry,Mallett,,Baylor,N
 1957,4,8,Bos,Jim,Ashmore,,Mississippi State,N
 1957,5,1,Cin,Stewart,Murray,,Lafayette,N
@@ -1032,7 +1032,7 @@
 1957,6,2,Det,Walt,Acamushko,,St. Francis (NY),N
 1957,6,3,MIE,Phil,Murrell,,Drake,N
 1957,6,4,StL,Raymond,Downs,,Texas,N
-1957,6,5,NYK,Jim,Humphreys,,St. Michael's,N
+1957,6,5,NYK,Jim,Humphreys,,St. Michaels,N
 1957,6,6,PH1,Alonzo,Lewis,,La Salle,N
 1957,6,7,Syr,Lyndon,Lee,,Oklahoma City,N
 1957,6,8,Bos,Maurice,King,KingMa01 ,Kansas,N
@@ -1107,7 +1107,7 @@
 1958,4,8,Bos,Don,Flora,,Washington & Lee,N
 1958,5,1,MIE,Quitman,Sullins,,Murray State,N
 1958,5,2,Cin,Jim,Fulmer,,Alabama,N
-1958,5,3,Det,Hank,Morano,,St. Peter's,N
+1958,5,3,Det,Hank,Morano,,St. Peters,N
 1958,5,4,NYK,Don,Lane,,Dayton,N
 1958,5,5,PH1,Don,Ohl,OhlDo01  ,Illinois,N
 1958,5,6,Syr,Fred,Grim,,Arkansas,N
@@ -1174,7 +1174,7 @@
 1959,2,3,PH1,Joe,Ruklick,RukliJo01,Northwestern,N
 1959,2,4,MIE,Rudy,LaRusso,LaRusRu01,Dartmouth,N
 1959,2,5,Syr,Gene,Tormohlen,TormoGe01,Tennessee,N
-1959,2,6,StL,Alan,Seiden,,St. John's,N
+1959,2,6,StL,Alan,Seiden,,St. Johns,N
 1959,2,7,StL,Cal,Ramsey,RamseCa01,New York University,N
 1959,2,8,Bos,Gene,Guarilia,GuariGe01,George Washington,N
 1959,3,1,Cin,Mike,Mendenhall,,Cincinnati,N
@@ -1203,7 +1203,7 @@
 1959,5,8,Bos,Don,Lange,,William & Mary,N
 1959,6,1,Cin,Don,Hennon,,Pittsburgh,N
 1959,6,2,Det,Lou,Jordan,,Cornell,N
-1959,6,3,PH1,Joe,Spratt,,St. Joseph's (PA),N
+1959,6,3,PH1,Joe,Spratt,,St. Josephs (PA),N
 1959,6,4,MIE,Jim,Henry,,Vanderbilt,N
 1959,6,5,Syr,Bob,Dalton,,California,N
 1959,6,6,NYK,Bucky,McDonald,,George Washington,N
@@ -1264,7 +1264,7 @@
 1960,2,8,Bos,Leroy,Wright,WrighLe01,College of Pacific,N
 1960,3,1,Cin,Ralph,Davis,DavisRa01,Cincinnati,N
 1960,3,2,MIE,Jim,Hagan,,Tennessee Tech,N
-1960,3,3,NYK,Bob,McNeill,McNeiBo01,St. Joseph's (PA),N
+1960,3,3,NYK,Bob,McNeill,McNeiBo01,St. Josephs (PA),N
 1960,3,4,Det,Frank,Case,,Dayton,N
 1960,3,5,Syr,Joe,Roberts,RoberJo01,Ohio State,N
 1960,3,6,StL,Fred,LaCour,LaCouFr01,San Francisco,N
@@ -1300,7 +1300,7 @@
 1960,7,4,Det,Doug,Moe,MoeDo01  ,North Carolina,N
 1960,7,5,Syr,Bernie,Kauffman,,Kentucky,N
 1960,7,6,StL,Bob,Sims,SimsBo01 ,Pepperdine,N
-1960,7,7,PH1,Bob,Clarke,,St. Joseph's (PA),N
+1960,7,7,PH1,Bob,Clarke,,St. Josephs (PA),N
 1960,8,1,Cin,Sam,Stith,StithSa01,St. Bonaventure,N
 1960,8,2,MIE,John,Werhas,,USC,N
 1960,8,3,NYK,George,Price,,Memphis State,N
@@ -1314,7 +1314,7 @@
 1960,9,4,Det,Martin,Holland,,Kentucky Wesleyan,N
 1960,9,5,Syr,Bernie,Findlay,,San Diego State,N
 1960,9,6,StL,Bob,Castanada,,Rockhurst,N
-1960,9,7,PH1,Joe,Gallo,,St. Joseph's,N
+1960,9,7,PH1,Joe,Gallo,,St. Josephs,N
 1960,10,1,Cin,Lon,Sizemore,,West Virginia Tech,N
 1960,10,2,MIE,Dick,Harvey,,Creighton,N
 1960,10,3,NYK,Walter,Mangham,,Marquette,N
@@ -1352,7 +1352,7 @@
 1961,1,4,Det,Ray,Scott,ScottRa01,Portland,N
 1961,1,5,LAL,Wayne,Yates,YatesWa01,Memphis State,N
 1961,1,6,Syr,Ben,Warley,WarleBe01,Tennessee State,N
-1961,1,7,PH1,Tom,Meschery,MeschTo01,St. Mary's (CA),N
+1961,1,7,PH1,Tom,Meschery,MeschTo01,St. Marys (CA),N
 1961,1,8,StL,Cleo,Hill,HillCl01 ,Winston-Salem,N
 1961,1,9,Bos,Gary,Phillips,PhillGa01,Houston,N
 1961,2,1,NYK,Whitey,Martin,,St. Bonaventure,N
@@ -1369,12 +1369,12 @@
 1961,2,12,CH2,Don,Kojis,KojisDo01,Marquette,N
 1961,2,13,CH2,Doug,Moe,MoeDo01  ,North Carolina,N
 1961,2,14,CH2,Jeff,Cohen,,William & Mary,N
-1961,3,1,NYK,Tony,Jackson,JacksTo01,St. John's,N
+1961,3,1,NYK,Tony,Jackson,JacksTo01,St. Johns,N
 1961,3,2,Cin,Bob,Nordmann,NordmRo01,St. Louis,N
 1961,3,3,Det,Doug,Kistler,KistlDo01,Duke,N
 1961,3,4,LAL,Frank,Burgess,,Gonzaga,N
 1961,3,5,Syr,Charles,Osborne,OsborCh01,Western Kentucky,N
-1961,3,6,PH1,Jack,Egan,,St. Joseph's (PA),N
+1961,3,6,PH1,Jack,Egan,,St. Josephs (PA),N
 1961,3,7,StL,Tom,Chilton,,East Tennessee,N
 1961,3,8,Bos,Bill,Depp,,Vanderbilt,N
 1961,3,9,CH2,Bill,Bridges,BridgBi01,Kansas,N
@@ -1387,7 +1387,7 @@
 1961,4,7,StL,Gus,Guydon,,Drake,N
 1961,4,8,Bos,Carl,Cole,,Eastern Kentucky,N
 1961,4,9,CH2,Roger,Kaiser,,Georgia Tech,N
-1961,5,1,NYK,Bill,Smith,SmithBi03,St. Peter's,N
+1961,5,1,NYK,Bill,Smith,SmithBi03,St. Peters,N
 1961,5,2,Cin,Rossie,Johnson,,Tennessee A&I,N
 1961,5,3,Det,Dan,Doyle,DoyleDa01,Belmont Abbey,N
 1961,5,4,LAL,Bill,Lickert,,Kentucky,N
@@ -1437,7 +1437,7 @@
 1961,10,6,PH1,Leo,Hill,,Cal State–Los Angeles,N
 1961,10,7,StL,Tom,Faszholz,,Concordia (MO),N
 1961,10,8,CH2,Larry,Comley,ComleLa01,Kansas State,N
-1961,11,1,NYK,Kevin,Loughery,LoughKe01,St. John's,N
+1961,11,1,NYK,Kevin,Loughery,LoughKe01,St. Johns,N
 1961,11,2,Cin,Carl,Short,,Newberry,N
 1961,11,3,Det,Richard,Kraft,,Brockport,N
 1961,11,4,LAL,Howard,Hunt,,Duke,N
@@ -1452,7 +1452,7 @@
 1961,13,3,StL,Howard,Stacy,,Louisville,N
 1961,14,1,NYK,Bill,Engressor,,Louisiana State,N
 1961,14,2,Cin,Carl,Bouldin,,Cincinnati,N
-1961,15,1,NYK,Vince,Kempton,,St. Joseph's (PA),N
+1961,15,1,NYK,Vince,Kempton,,St. Josephs (PA),N
 1962,1,1,CH2,Bill,McGill,McGilBi01,Utah,N
 1962,1,2,NYK,Paul,Hogue,HoguePa01,Cincinnati,N
 1962,1,3,StL,Zelmo,Beaty,BeatyZe01,Prairie View,N
@@ -1460,12 +1460,12 @@
 1962,1,5,Syr,Len,Chappell,ChappLe01,Wake Forest,N
 1962,1,6,Cin,Jerry,Lucas,LucasJe01,Ohio State,N
 1962,1,7,PH1,Wayne,Hightower,HightWa01,Kansas,N
-1962,1,8,LAL,Leroy,Ellis,EllisLe01,St. John's,N
+1962,1,8,LAL,Leroy,Ellis,EllisLe01,St. Johns,N
 1962,1,9,Bos,John,Havlicek,HavliJo01,Ohio State,N
 1962,2,1,CH2,Terry,Dischinger,DischTe01,Purdue,N
 1962,2,2,NYK,John,Rudometkin,RudomJo01,USC,N
 1962,2,3,StL,Bob,Duffy,DuffyBo02,Colgate,N
-1962,2,4,Det,Kevin,Loughery,LoughKe01,St. John's,N
+1962,2,4,Det,Kevin,Loughery,LoughKe01,St. Johns,N
 1962,2,5,Syr,Chet,Walker,WalkeCh01,Bradley,N
 1962,2,6,Cin,Bud,Olsen,olsenen01,Louisville,N
 1962,2,7,PH1,Hubie,White,WhiteHu01,Villanova,N
@@ -1575,7 +1575,7 @@
 1963,2,9,StL,Ken,Saylors,,Arkansas Tech,N
 1963,3,1,NYK,Bill,OConnor,,Canisius,N
 1963,3,2,bal,Tom,Bolyard,,Indiana,N
-1963,3,3,SFW,Steve,Gray,,St. Mary's (CA),N
+1963,3,3,SFW,Steve,Gray,,St. Marys (CA),N
 1963,3,4,Det,Mike,McCoy,,Miami (FL),N
 1963,3,5,Cin,Jimmy,Rayl,RaylJi01 ,Indiana,N
 1963,3,6,StL,Bill,Burwell,,Illinois,N
@@ -1664,7 +1664,7 @@
 1964,3,5,LAL,Tom,Dose,,Stanford,N
 1964,3,6,StL,Art,Becker,BeckeAr01,Arizona State,N
 1964,3,7,SFW,McCoy,McLemore,McLemMc01,Drake,N
-1964,3,8,Cin,Steve,Courtin,CourtSt01,St. Joseph's (PA),N
+1964,3,8,Cin,Steve,Courtin,CourtSt01,St. Josephs (PA),N
 1964,3,9,Bos,John,Thompson,ThompJo01,Providence,N
 1964,4,1,NYK,Fred,Crawford,CrawfFr01,St. Bonaventure,N
 1964,4,2,Det,Jim,Davis,DavisJi01,Colorado,N
@@ -1765,7 +1765,7 @@
 1965,3,3,Det,Ron,Reed,ReedRo01 ,Notre Dame,N
 1965,3,4,bal,Joe,Newton,,Auburn,N
 1965,3,5,PHI,Bob,Weiss,WeissBo01,Penn State,N
-1965,3,6,StL,Ken,McIntyre,,St. John's,N
+1965,3,6,StL,Ken,McIntyre,,St. Johns,N
 1965,3,7,Cin,Jon,McGlocklin,McGloJo01,Indiana,N
 1965,3,8,LAL,Jim,Caldwell,CaldwJi01,Georgia Tech,N
 1965,3,9,Bos,Toby,Kimball,KimbaTo01,Connecticut,N
@@ -1777,7 +1777,7 @@
 1965,4,6,StL,Lynn,Nance,,Washington,N
 1965,4,7,Cin,Bob,Love,LoveBo01 ,Southern,N
 1965,4,8,LAL,Brooks,Henderson,,Florida,N
-1965,4,9,Bos,Richie,Tarrant,,St. Michael's (VT),N
+1965,4,9,Bos,Richie,Tarrant,,St. Michaels (VT),N
 1965,5,1,SFW,Eddie,Jackson,,Oklahoma City,N
 1965,5,2,NYK,Steve,Nisenson,,Hofstra,N
 1965,5,3,Det,Ted,Manning,,North Carolina College,N
@@ -1860,7 +1860,7 @@
 1966,1,6,Cin,Walt,Wesley,WesleWa01,Kansas,N
 1966,1,7,LAL,Jerry,Chambers,ChambJe01,Utah,N
 1966,1,8,Bos,Jim,Barnett,BarneJi02,Oregon,N
-1966,1,9,PHI,Matt,Guokas,GuokaMa01,St. Joseph's (PA),N
+1966,1,9,PHI,Matt,Guokas,GuokaMa01,St. Josephs (PA),N
 1966,1,10,Chi,Dave,Schellhase,SchelDa01,Purdue,N
 1966,2,1,NYK,Henry,Akin,AkinHe01 ,Morehead State,N
 1966,2,2,Det,Dorie,Murrey,MurreDo01,Detroit,N
@@ -1885,7 +1885,7 @@
 1966,4,1,NYK,Lee,DeFore,,Auburn,N
 1966,4,2,Det,Jeff,Congdon,CongdJe01,Brigham Young,N
 1966,4,3,SFW,Steve,Vacendak,VacenSt01,Duke,N
-1966,4,4,StL,Bob,McIntyre,McIntBo01,St. John's,N
+1966,4,4,StL,Bob,McIntyre,McIntBo01,St. Johns,N
 1966,4,5,bal,George,Peeples,PeeplGe01,Iowa,N
 1966,4,6,Cin,Charles,Schmaus,,Virginia Military,N
 1966,4,7,LAL,Archie,Clark,ClarkAr01,Minnesota,N
@@ -1900,7 +1900,7 @@
 1966,5,6,bal,John,Jones,JonesJo01,Louisiana State,N
 1966,5,7,Cin,Rick,Parks,ParksRi01,St. Louis,N
 1966,5,8,LAL,Stan,Washington,WashiSt01,Michigan State,N
-1966,5,9,PHI,Tom,Duff,,St. Joseph's (PA),N
+1966,5,9,PHI,Tom,Duff,,St. Josephs (PA),N
 1966,5,10,Chi,Larry,Humes,,Evansville,N
 1966,6,1,NYK,George,Fisher,,Utah,N
 1966,6,2,Det,Carroll,Hooser,HooseCa01,Southern Methodist,N
@@ -2048,7 +2048,7 @@
 1967,0,0,mnm,Lindberg,Moody,,South Carolina State,A
 1967,0,0,mnm,Errol,Palmer,PalmeEr01,DePaul,A
 1967,0,0,mnm,Ron,Perry,PerryRo01,Virginia Poly Institute,A
-1967,0,0,NJA,Sonny,Dove,DoveSo01 ,St. John's,A
+1967,0,0,NJA,Sonny,Dove,DoveSo01 ,St. Johns,A
 1967,0,0,NJA,Mal,Graham,GrahaMa01,New York University,A
 1967,0,0,NJA,George,Stone,StoneGe01,Marshall,A
 1967,0,0,NJA,Dick,Pruett,,Jacksonville,A
@@ -2081,7 +2081,7 @@
 1967,0,0,OAK,Ron,Franz,FranzRo01,Kansas,A
 1967,0,0,OAK,Bill,Morgan,,New Mexico,A
 1967,0,0,OAK,Marlbert,Pradd,PraddMa01,Dillard,A
-1967,0,0,ptp,Cliff,Anderson,AnderCl01,St. Joseph's (PA),A
+1967,0,0,ptp,Cliff,Anderson,AnderCl01,St. Josephs (PA),A
 1967,0,0,ptp,Barry,Liebowitz,LieboBa01,Long Island,A
 1967,0,0,ptp,Earl,Monroe,MonroEa01,Winston-Salem,A
 1967,0,0,ptp,Craig,Raymond,RaymoCr01,Brigham Young,A
@@ -2096,7 +2096,7 @@
 1967,1,1,Det,Jimmy,Walker,WalkeJi01,Providence,N
 1967,1,2,bal,Earl,Monroe,MonroEa01,Winston-Salem,N
 1967,1,3,Chi,Clem,Haskins,HaskiCl01,Western Kentucky,N
-1967,1,4,Det,Sonny,Dove,DoveSo01 ,St. John's,N
+1967,1,4,Det,Sonny,Dove,DoveSo01 ,St. Johns,N
 1967,1,5,NYK,Walt,Frazier,FraziWa01,Southern Illinois,N
 1967,1,6,Sea,Al,Tucker,TuckeAl01,Oklahoma Baptist,N
 1967,1,7,SDR,Pat,Riley,RileyPa01,Kentucky,N
@@ -2127,7 +2127,7 @@
 1967,4,1,bal,Al,Salvadori,SalvaAl01,South Carolina,N
 1967,4,2,Det,Ron,Franz,FranzRo01,Kansas,N
 1967,4,3,Chi,Jim,Burns,BurnsJi01,Northwestern,N
-1967,4,4,LAL,Cliff,Anderson,AnderCl01,St. Joseph's,N
+1967,4,4,LAL,Cliff,Anderson,AnderCl01,St. Josephs,N
 1967,4,5,NYK,Keith,Swagerty,SwageKe01,Pacific,N
 1967,4,6,StL,Wes,Bialosuknia,,Connecticut,N
 1967,4,7,Cin,Lou,Dampier,DampiLo01,Kentucky,N
@@ -2182,7 +2182,7 @@
 1967,7,8,SFW,Sonny,Bustion,,Pacific,N
 1967,7,9,Bos,Edgar,Lacy,LacyEd01 ,UCLA,N
 1967,7,10,PHI,Frank,Card,CardFr01 ,Virginia,N
-1967,7,11,Sea,Dick,Kolbert,,St. Joseph's,N
+1967,7,11,Sea,Dick,Kolbert,,St. Josephs,N
 1967,7,12,SDR,Elbert,Miller,,Boston College,N
 1967,9,1,bal,Robert,Allen,,Arkansas A&M,N
 1967,9,2,Chi,Ernie,Laurent,,Albuquerque,N
@@ -2199,7 +2199,7 @@
 1967,10,2,Chi,Jim,Boshart,,Wake Forest,N
 1967,10,3,LAL,Don,Kruze,,Houston,N
 1967,10,4,NYK,Bruce,Kaplan,,New York University,N
-1967,10,5,StL,Rich,Falkenbrush,,St. Michael's (VT),N
+1967,10,5,StL,Rich,Falkenbrush,,St. Michaels (VT),N
 1967,10,6,Cin,Willie,Davis,DAVISWI01,North Texas State,N
 1967,10,7,SFW,Joe,Galbo,,San Francisco State,N
 1967,10,8,Bos,Rick,Weitzman,WeitzRi01,Northeastern,N
@@ -2306,7 +2306,7 @@
 1968,0,0,IND,Bob,Quick,QuickBo01,Xavier,A
 1968,0,0,IND,Phil,Wagner,WagnePh01,Georgia Tech,A
 1968,0,0,IND,Dave,Benedict,,Central Washington,A
-1968,0,0,IND,Rudy,Bogad,,St. John's,A
+1968,0,0,IND,Rudy,Bogad,,St. Johns,A
 1968,0,0,IND,Jerry,Newsom,,Indiana State,A
 1968,0,0,IND,Rich,Niemann,NiemaRi01,St. Louis,A
 1968,0,0,IND,Jack,Thompson,ThompJa01,South Carolina,A
@@ -2397,14 +2397,14 @@
 1968,0,0,NYN,Steve,Adelman,,Boston College,A
 1968,0,0,NYN,Eddie,Biedenbach,BiedeEd01,North Carolina State,A
 1968,0,0,NYN,Ron,Gruziak,,Duquesne,A
-1968,0,0,NYN,Pete,ODea,,St. Peter's,A
+1968,0,0,NYN,Pete,ODea,,St. Peters,A
 1968,0,0,NYN,Bill,Soens,,Miami (FL),A
 1968,0,0,NYN,Bill,Butler,,St. Bonaventure,A
 1968,0,0,NYN,John,Chamberlain,,C. W. Post,A
 1968,0,0,NYN,Anthony,Koski,Koskito01,Providence,A
 1968,0,0,NYN,Bill,Langheld,,Fordham,A
 1968,0,0,NYN,Art,Stephenson,,Rhode Island,A
-1968,0,0,NYN,Harry,Laurie,LauriHa01,St. Peter's,A
+1968,0,0,NYN,Harry,Laurie,LauriHa01,St. Peters,A
 1968,0,0,OAK,Warren,Armstrong,,Wichita,A
 1968,0,0,OAK,Jim,Eakins,EakinJi01,Brigham Young,A
 1968,0,0,OAK,Skip,Harlicka,HarliSk01,South Carolina,A
@@ -2470,7 +2470,7 @@
 1968,4,10,Bos,Rich,Johnson,JohnsRi01,North Carolina State,N
 1968,4,11,Atl,Bob,Warren,WarreBo01,Grambling,N
 1968,4,12,SDR,Darryl,Jones,,Vanderbilt,N
-1968,4,13,PHO,Rich,Jones,,St. Benedict's,N
+1968,4,13,PHO,Rich,Jones,,St. Benedicts,N
 1968,4,14,Mil,Greg,Smith,SmithGr01,Memphis State,N
 1968,5,1,SDR,Glen,Combs,CombsGl01,Western Kentucky,N
 1968,5,2,Sea,Al,Hairston,HairsAl01,Virginia Tech,N
@@ -2520,7 +2520,7 @@
 1968,8,4,bal,Barry,Orms,OrmsBa01 ,Pasadena College,N
 1968,8,5,Cin,Dave,Williams,,St. Louis,N
 1968,8,6,Det,Harry,Laurie,LauriHa01,Mississippi State,N
-1968,8,7,SFW,Walt,Platkowski,PiatkWa01,St. Peter's,N
+1968,8,7,SFW,Walt,Platkowski,PiatkWa01,St. Peters,N
 1968,8,8,NYK,Bob,Hooper,HoopeBo01,Bowling Green,N
 1968,8,9,LAL,John,Smith,SmithJo02,Dayton,N
 1968,8,10,Bos,Julius,Keye,KeyeJu01 ,Southern Colorado,N
@@ -2586,7 +2586,7 @@
 1968,13,2,Sea,Bud,Ogden,Ogdenca01,Lincoln,N
 1968,13,3,Chi,Herm,Gilliam,GilliHe01,Santa Clara,N
 1968,13,4,bal,Rudy,Bogad,,Purdue,N
-1968,13,5,Cin,Jim,Tindell,,St. John's,N
+1968,13,5,Cin,Jim,Tindell,,St. Johns,N
 1968,13,6,NYK,Ken,Morehead,,Massachusetts,N
 1968,13,7,LAL,Harvey,Mumford,,Hillside,N
 1968,13,8,Bos,Art,Stephenson,,Montana State,N
@@ -2655,7 +2655,7 @@
 1969,0,0,den,Greg,Wittman,WittmGr01, Western Carolina ,A
 1969,0,0,den,Jerry,King,, Louisville ,A
 1969,0,0,den,Bob,Tallent,, George Washington,A
-1969,0,0,den,Elnardo,Webster,WebstEl01, St. Peter's (NJ) ,A
+1969,0,0,den,Elnardo,Webster,WebstEl01, St. Peters (NJ) ,A
 1969,0,0,den,Bill,Justus,, Tennessee ,A
 1969,0,0,den,Larry,Jeffries,, Trinity (TX)  ,A
 1969,0,0,den,Harry,Hall,, Wyoming ,A
@@ -2672,7 +2672,7 @@
 1969,0,0,DLC,Jud,Roberts,, Mercer (GA) ,A
 1969,0,0,DLC,Ron,Sanford,SanfoRo01, New Mexico ,A
 1969,0,0,DLC,Willie,Scott,ScottWi01, Troy State (AL),A
-1969,0,0,DLC,Fred,Carter,CarteFr01, Mt. St. Mary's (MD),A
+1969,0,0,DLC,Fred,Carter,CarteFr01, Mt. St. Marys (MD),A
 1969,0,0,ind,Bob,Arnzen,ArnzeBo01, Notre Dame ,A
 1969,0,0,ind,Dick,Grubar,, North Carolina,A
 1969,0,0,ind,Tony,Masiello,, Canisius ,A
@@ -2772,7 +2772,7 @@
 1969,1,8,Cin,Herm,Gilliam,GilliHe01,Purdue,N
 1969,1,9,Bos,Jo Jo,White,WhiteJo01,Kansas,N
 1969,1,10,Atl,Butch,Beard,BeardBu01,Louisville,N
-1969,1,11,NYK,John,Warren,WarreJo01,St. John's,N
+1969,1,11,NYK,John,Warren,WarreJo01,St. Johns,N
 1969,1,12,LAL,Willie,McCarter,,Drake,N
 1969,1,13,PHI,Bud,Ogden,Ogdenca01,Santa Clara,N
 1969,1,14,bal,Mike,Davis,DavisMi01,Virginia Union,N
@@ -2804,7 +2804,7 @@
 1969,3,11,NYK,Ed,Mast,MastEd01 ,Temple,N
 1969,3,12,Cin,Luther,Green,GreenLu01,Long Island,N
 1969,3,13,PHI,Mike,Grosso,GrossMi01,Louisville,N
-1969,3,14,bal,Fred,Carter,CarteFr01,Mount St. Mary's,N
+1969,3,14,bal,Fred,Carter,CarteFr01,Mount St. Marys,N
 1969,4,1,PHO,Dennis,Stewart,StewaDe01,Michigan,N
 1969,4,2,Mil,Bob,Dandridge,DandrBo01,Norfolk State,N
 1969,4,3,Sea,Hal,Booker,BookeBU01,Cheyney State,N
@@ -2815,7 +2815,7 @@
 1969,4,8,Cin,Ron,Sanford,SanfoRo01,New Mexico,N
 1969,4,9,Bos,Steve,Kuberski,KuberSt01,Bradley,N
 1969,4,10,Atl,Billy,Hann,,Tennessee,N
-1969,4,11,NYK,Elnardo,Webster,WebstEl01,St. Peter's,N
+1969,4,11,NYK,Elnardo,Webster,WebstEl01,St. Peters,N
 1969,4,12,Atl,Don,Griffin,,Stanford,N
 1969,4,13,PHI,Dave,Scholz,ScholDa01,Illinois,N
 1969,4,14,bal,Gene,Ford,,Western Michigan,N
@@ -2909,7 +2909,7 @@
 1969,11,4,Det,Rusty,Clark,,North Carolina,N
 1969,11,5,Chi,Larry,Bergh,BerghLa01,Weber State,N
 1969,11,6,SDR,Justus,Thigpen,ThigpJu01,Weber State,N
-1969,11,7,SFW,Rich,Holmberg,,St. Mary's,N
+1969,11,7,SFW,Rich,Holmberg,,St. Marys,N
 1969,11,8,Cin,Jim,Supple,,Georgetown,N
 1969,11,9,Bos,Larry,Frinston,,Kenyon,N
 1969,11,10,Atl,Loran,Bracci,,San Fernando Valley State,N
@@ -3025,11 +3025,11 @@
 1970,0,0,ind,Rick,Erickson,,Washington State,A
 1970,0,0,ind,Billy,Jones,,Louisiana College,A
 1970,0,0,ind,Jerry,Kroll,,Davidson,A
-1970,0,0,ind,Bob,Reily,,Mt. St. Mary's,A
+1970,0,0,ind,Bob,Reily,,Mt. St. Marys,A
 1970,0,0,ind,Heyward,Dotson,,Columbia,A
 1970,0,0,ind,Mickey,Foster,,Arizona,A
 1970,0,0,ind,Seaburn,Hill,,Arizona State,A
-1970,0,0,ind,Ted,Hillery,,St. Joseph's (IN),A
+1970,0,0,ind,Ted,Hillery,,St. Josephs (IN),A
 1970,0,0,ind,Jeff,Sewell,,Marquette,A
 1970,0,0,KEN,Pete,Cross,CrossPe01,San Francisco,A
 1970,0,0,KEN,Dan,Issel,IsselDa01,Kentucky,A
@@ -3062,7 +3062,7 @@
 1970,0,0,nyj,Jim,Hayes,HayesJi01,Boston University,A
 1970,0,0,nyj,Bob,Lanier,LanieBo01,St. Bonaventure,A
 1970,0,0,nyj,Geoff,Petrie,PetriGe01,Princeton,A
-1970,0,0,nyj,Joe,DePre,DePreJo01,St. John's,A
+1970,0,0,nyj,Joe,DePre,DePreJo01,St. Johns,A
 1970,0,0,nyj,Harvey,Marlatt,MarlaHa01,Eastern Michigan,A
 1970,0,0,nyj,Rod,McIntyre,,Jacksonville,A
 1970,0,0,nyj,Carleton,Poole,,Philadelphia Textile,A
@@ -3123,7 +3123,7 @@
 1970,0,0,vir,James,Gilbert,,Adams State (CO),A
 1970,0,0,vir,Greg,Howard,HowarGr01,New Mexico,A
 1970,0,0,vir,George,Irvine,IrvinGe01,Washington,A
-1970,0,0,vir,Bill,Paultz,PaultBi01,St. John's,A
+1970,0,0,vir,Bill,Paultz,PaultBi01,St. Johns,A
 1970,0,0,vir,Charlie,Scott,ScottCh01,North Carolina,A
 1970,0,0,vir,Tommy,Carter,,Paul Quinn,A
 1970,0,0,vir,Tom,Everette,,Carson - Newman,A
@@ -3163,7 +3163,7 @@
 1970,2,9,CLE,Dave,Sorenson,SorenDa01,Ohio State,N
 1970,2,10,PHO,Fred,Taylor,TayloFr01,Pan American,N
 1970,2,11,Chi,Paul,Ruffner,RuffnPa01,Brigham Young,N
-1970,2,12,PHO,Joe,DePre,DePreJo01,St. John's,N
+1970,2,12,PHO,Joe,DePre,DePreJo01,St. Johns,N
 1970,2,13,LAL,Earnest,Killum,KilluEa01,Stetson,N
 1970,2,14,Atl,Dan,Hester,HesteDa01,Louisiana State,N
 1970,2,15,Det,Ken,Warzynski,,DePaul,N
@@ -3216,7 +3216,7 @@
 1970,5,11,Chi,George,Johnson,JohnsGe01,Dillard,N
 1970,5,12,PHI,Perry,Wallace,,Vanderbilt,N
 1970,5,13,LAL,John,Fultz,,Rhode Island,N
-1970,5,14,Atl,Bob,Riley,RileyBo01,Mount St. Mary's,N
+1970,5,14,Atl,Bob,Riley,RileyBo01,Mount St. Marys,N
 1970,5,15,bal,Gary,Zeller,ZelleGa01,Drake,N
 1970,5,16,Mil,Mike,Grosso,GrossMi01,Louisville,N
 1970,5,17,NYK,Jim,Oxley,,Army,N
@@ -3237,7 +3237,7 @@
 1970,6,15,bal,Marvin,Polnick,,Stephen F. Austin,N
 1970,6,16,Mil,Willy,Watson,,Oklahoma City,N
 1970,6,17,NYK,Jim,Signorile,,New York University,N
-1970,7,1,SDR,Bill,Paultz,PaultBi01,St. John's,N
+1970,7,1,SDR,Bill,Paultz,PaultBi01,St. Johns,N
 1970,7,2,SFW,Joe,Bergman,,Creighton,N
 1970,7,3,Det,Marv,Copeland,,Michigan Lutheran,N
 1970,7,4,Bos,Charlie,Scott,ScottCh01,North Carolina,N
@@ -3282,7 +3282,7 @@
 1970,9,9,BUF,Larry,Duckworth,,Henderson State,N
 1970,9,10,PHO,Carl,Ashley,,Wyoming,N
 1970,9,11,Chi,Glen,Johnson,,Jackson State,N
-1970,9,12,PHI,Mike,Hauer,,St. Joseph's,N
+1970,9,12,PHI,Mike,Hauer,,St. Josephs,N
 1970,9,13,LAL,Bobby,Sands,,Pepperdine,N
 1970,9,14,Atl,Larry,Jackson,,Sul Ross,N
 1970,9,15,bal,Will,Hetzel,,Maryland,N
@@ -3307,7 +3307,7 @@
 1970,10,17,NYK,Don,Curnutt,,Miami (FL),N
 1970,11,1,SDR,Ron,Belton,,Bellarmine,N
 1970,11,2,Det,Rick,Anhauser,,North Carolina State,N
-1970,11,3,Cin,Ted,Hillary,,St. Joseph's (IN),N
+1970,11,3,Cin,Ted,Hillary,,St. Josephs (IN),N
 1970,11,4,Sea,Andy,Owens,,Florida,N
 1970,11,5,CLE,Dave,Schneider,,Wayne State,N
 1970,11,6,POR,Don,McClemore,,Bowling Green,N
@@ -3360,7 +3360,7 @@
 1970,16,1,SDR,Dean,Olofson,,Wayne State,N
 1970,16,2,Det,Harvey,Mariatt,MARLAHA01,Eastern Michigan,N
 1970,16,3,Cin,Paul,Favorite,,Georgetown,N
-1970,16,4,POR,Doug,Williams,,St. Mary's (TX),N
+1970,16,4,POR,Doug,Williams,,St. Marys (TX),N
 1970,16,5,CLE,Steve,Wilson,WilsoSt01,Hanover,N
 1970,16,6,LAL,Pete,Walthour,,Fort Valley,N
 1970,16,7,bal,Don,Rather,,Northern Arizona,N
@@ -3372,7 +3372,7 @@
 1970,18,2,POR,Bruce,Butchko,,Southern Illinois,N
 1970,18,3,CLE,John,Cannon,,Grambling,N
 1970,19,1,SDR,Rick,Erickson,,Washington State,N
-1970,19,2,CLE,Allen,Waller,,St. Mary's (Kansas),N
+1970,19,2,CLE,Allen,Waller,,St. Marys (Kansas),N
 1970,19,3,POR,Mark,Gabriel,,Hanover,N
 1971,0,0,car,Ted,McClain,McClaTe01,Tennessee State,A
 1971,0,0,car,Gregg,Northington,,Alabama State,A
@@ -3523,7 +3523,7 @@
 1971,0,0,nyn,Ollie,Sherman,,Minnesota,A
 1971,0,0,nyn,Bobby,Doyle,,Texas-El Paso,A
 1971,0,0,nyn,Calvin,Oliver,,Pan American,A
-1971,0,0,nyn,Greg,Cluess,,St. John's (redshirt),A
+1971,0,0,nyn,Greg,Cluess,,St. Johns (redshirt),A
 1971,0,0,nyn,Ed,Leftwich,,North Carolina State,A
 1971,0,0,ptc,Jim,OBrien,OBrieJi01,Boston College,A
 1971,0,0,ptc,Howard,Porter,PorteHo01,Villanova,A
@@ -3544,7 +3544,7 @@
 1971,0,0,ptc,Lee,McCullough,,Indiana State (PA),A
 1971,0,0,ptc,Russell,Golden,,Jackson State (redshirt),A
 1971,0,0,ptc,Harry,James,,Montclair State,A
-1971,0,0,ptc,Stan,Novey,NoveySt01,Mt. St. Mary's.,A
+1971,0,0,ptc,Stan,Novey,NoveySt01,Mt. St. Marys.,A
 1971,0,0,uts,Rick,Fisher,FisheRi01,Colorado State (redshirt),A
 1971,0,0,uts,Jim,McDaniels,,Western Kentucky,A
 1971,0,0,uts,Dennis,Layton,LaytoDe01,Southern California,A
@@ -3563,7 +3563,7 @@
 1971,0,0,vir,Bill,Gerry,,Virginia,A
 1971,0,0,vir,Gilbert,McGregor,McGreGi01,Wake Forest,A
 1971,0,0,vir,Hector,Blondet,,Murray State,A
-1971,0,0,vir,Lou,Grillo,,Mt. St. Mary's,A
+1971,0,0,vir,Lou,Grillo,,Mt. St. Marys,A
 1971,0,1,Cin,Nate,Williams,WilliNa01,Utah State,N
 1971,0,2,Atl,Tom,Payne,PayneTo01,Kentucky,N
 1971,0,3,SFW,Cyril,Baptiste,,Creighton,N
@@ -3611,7 +3611,7 @@
 1971,3,5,Chi,Clifford,Ray,RayCl01  ,Oklahoma,N
 1971,3,6,CLE,Jackie,Ridgle,RidglJa01,California,N
 1971,3,7,POR,Bill,Smith,SmithBi02,Syracuse,N
-1971,3,8,bal,Rich,Rinaldi,RinalRi01,St. Peter's,N
+1971,3,8,bal,Rich,Rinaldi,RinalRi01,St. Peters,N
 1971,3,9,Bos,Dave,Robisch,RobisDa01,Kansas,N
 1971,3,10,Det,Marv,Roberts,RoberMa01,Utah State,N
 1971,3,11,PHI,Dave,Wohl,WohlDa01 ,Penn,N
@@ -3662,7 +3662,7 @@
 1971,6,6,Sea,Mike,Neciase,,William Carey,N
 1971,6,7,SDR,Garry,Reist,,Rice,N
 1971,6,8,SFW,Charlie,Johnson,JohnsCh01,California,N
-1971,6,9,bal,John,Novey,,Mount St. Mary's,N
+1971,6,9,bal,John,Novey,,Mount St. Marys,N
 1971,6,10,Bos,Thorpe,Weber,,Vanderbilt,N
 1971,6,11,Det,Jim,Larranga,,Providence,N
 1971,6,12,PHI,Jake,Jones,JonesJa01,Assumption,N
@@ -3719,7 +3719,7 @@
 1971,9,12,LAL,Bob,Cheeks,,Whittier,N
 1971,9,13,PHO,Mike,Johnson,,Kansas State,N
 1971,9,14,Chi,Jackie,Dinkins,DinkiJa01,Voorhees,N
-1971,9,15,NYK,Mike,OBrien,,St. Leo's,N
+1971,9,15,NYK,Mike,OBrien,,St. Leos,N
 1971,9,16,Mil,Rick,Howat,,Illinois,N
 1971,10,1,CLE,Jim,Meredith,,Washington State,N
 1971,10,2,BUF,Don,Ward,,Colgate,N
@@ -3832,7 +3832,7 @@
 1972,0,0,den,Paul,Stovall,StovaPa01,Arizona State,A
 1972,0,0,den,Sam,Sibert,SiberSa01,Kentucky State,A
 1972,0,0,den,Ron,Riley,RileyRo01,Southern California,A
-1972,0,0,den,Ted,Martiniuk,,St. Peter's (NJ),A
+1972,0,0,den,Ted,Martiniuk,,St. Peters (NJ),A
 1972,0,0,den,Bernie,Fryer,FryerBe01,Brigham Young,A
 1972,0,0,den,Jerry,Pender,PendeJe01,Fresno State,A
 1972,0,0,den,Gary,Stewart,,Canisius,A
@@ -3949,12 +3949,12 @@
 1972,0,0,ptc,Charles,Edge,EdgeCh01 ,Lemoyne-Owen Bryan,A
 1972,0,0,ptc,Bryan,Adrian,,Davidson,A
 1972,0,0,ptc,Joe,Gaines,,Belmont,A
-1972,0,0,ptc,Chick,Downing,,St. Benedict's,A
+1972,0,0,ptc,Chick,Downing,,St. Benedicts,A
 1972,0,0,ptc,Bill,Pleas,,Detroit,A
 1972,0,0,ptc,Dave,Werthman,,West Virginia,A
 1972,0,0,ptc,Henry,Seawright,,Manhattan (redshirt),A
 1972,0,0,ptc,Steve,McMahon,,Merrimack,A
-1972,0,0,ptc,Harry,Andersen,,St. Peter's (NJ),A
+1972,0,0,ptc,Harry,Andersen,,St. Peters (NJ),A
 1972,0,0,ptc,Manual,Raga,,Mexico,A
 1972,0,0,sdq,Stew,Johnson,JohnsSt03,Carolina,A
 1972,0,0,sdq,George,Johnson,JohnsGe01,Dallas,A
@@ -4037,7 +4037,7 @@
 1972,2,0,ind,Dwight,Jones,JonesDw01,(Houston) Floridians,A
 1972,2,0,KEN,Ernie,Fleming,,(Jacksonville) Floridians,A
 1972,2,0,mmp,Dave,Lattin,LattiDa01,Pittsburgh,A
-1972,2,0,uts,Chick,Downing,,(St. Benedict's) Pittsburgh,A
+1972,2,0,uts,Chick,Downing,,(St. Benedicts) Pittsburgh,A
 1972,2,0,vir,Joe,Mackey,,(Southern California) Pittsburgh,A
 1972,2,1,POR,Bob,Davis,DavisBo01,Weber State,N
 1972,2,2,BUF,Harold,Fox,FoxHa01  ,Jacksonville,N
@@ -4103,7 +4103,7 @@
 1972,4,12,PHO,Matt,Gantt,,St. Bonaventure,N
 1972,4,13,GSW,John,Tshogl,TschoJo01,UC Santa Barbara,N
 1972,4,14,Bos,Nate,Stephens,,Long Beach State,N
-1972,4,15,Chi,Ted,Martiniuk,,St. Peter's,N
+1972,4,15,Chi,Ted,Martiniuk,,St. Peters,N
 1972,4,16,Mil,Art,White,,Georgetown,N
 1972,5,0,mmp,Charles,Edge,EdgeCh01 ,(Lemoyne - Owen) Pittsburgh,A
 1972,5,0,vir,Greg,Lowery,,(Texas Tech) Floridians,A
@@ -4136,7 +4136,7 @@
 1972,6,8,Atl,Randy,Knoll,,Marshall,N
 1972,6,9,bal,Wayne,Dillard,DILLADU01,Eastern Michigan,N
 1972,6,10,Sea,Ron,Thomas,ThomaRo01,Louisville,N
-1972,6,11,NYK,Greg,Cleuss,,St. John's,N
+1972,6,11,NYK,Greg,Cleuss,,St. Johns,N
 1972,6,12,PHO,Charles,Edge,EdgeCh01 ,LeMoyne-Owen,N
 1972,6,13,GSW,Henry,Bacon,BaconHe01,Louisville,N
 1972,6,14,Bos,Doug,Holcomb,,Memphis,N
@@ -4244,10 +4244,10 @@
 1972,16,4,Chi,Charles,Hall,,W. Montana,N
 1972,17,1,Chi,John,Thornton,,South Carolina State,N
 1972,18,1,Chi,Ron,Manning,,Manhattan,N
-1973,1,0,CAR,Mel,Davis,DavisMe01,St. John's,A
+1973,1,0,CAR,Mel,Davis,DavisMe01,St. Johns,A
 1973,1,0,CAR,Maurice,Lucas,LucasMa01,Marquette,A
 1973,1,0,CAR,Cal,Tatum,,Southern Colorado State,A
-1973,1,0,DEN,Mike,Bantom,BantoMi01,St. Joseph's (PA),A
+1973,1,0,DEN,Mike,Bantom,BantoMi01,St. Josephs (PA),A
 1973,1,0,DEN,Ed,Ratleff,RatleEd01,Long Beach State,A
 1973,1,0,DEN,Marvin,Barnes,BarneMa01,Providence,A
 1973,1,0,DEN,Lamont,King,,Long Beach State,A
@@ -4289,13 +4289,13 @@
 1973,1,5,LAL,Kermit,Washington,WashiKe01,American,N
 1973,1,6,HOU,Ed,Ratleff,RatleEd01,Long Beach State,N
 1973,1,7,KCK,Ron,Behagen,BehagRo01,Minnesota,N
-1973,1,8,PHO,Mike,Bantom,BantoMi01,St. Joseph's,N
+1973,1,8,PHO,Mike,Bantom,BantoMi01,St. Josephs,N
 1973,1,9,Atl,Dwight,Jones,JonesDw01,Houston,N
 1973,1,10,Atl,John,Brown,BrownJo01,Missouri,N
 1973,1,11,GSW,Kevin,Joyce,JoyceKe01,South Carolina,N
 1973,1,12,Chi,Kevin,Kunnert,KunneKe01,Iowa,N
 1973,1,13,Cap,Nick,Weatherspoon,WeathNi01,Illinois,N
-1973,1,14,NYK,Mel,Davis,DavisMe01,St. John's,N
+1973,1,14,NYK,Mel,Davis,DavisMe01,St. Johns,N
 1973,1,15,POR,Barry,Parkhill,ParkhBa01,Virginia,N
 1973,1,16,Mil,Swen,Nater,NaterSw01,UCLA,N
 1973,1,17,Bos,Steve,Downing,DowniSt01,Indiana,N
@@ -4320,7 +4320,7 @@
 1973,2,0,mmt,Wendell,Hudson,,Alabama,A
 1973,2,0,mmt,Larry,Robinson,,Texas,A
 1973,2,0,mmt,Don,Watts,,Xavier (LA),A
-1973,2,0,nyn,Bill,Schaeffer,SchaeBi01,St. John's,A
+1973,2,0,nyn,Bill,Schaeffer,SchaeBi01,St. Johns,A
 1973,2,0,nyn,Campy,Russell,RusseCa02,Michigan,A
 1973,2,0,sas,John,Brown,BrownJo01,Missouri,A
 1973,2,0,sas,Kevin,Joyce,JoyceKe01,South Carolina,A
@@ -4342,12 +4342,12 @@
 1973,2,2,KCK,Mike,DAntoni,DAntMi01 ,Marshall,N
 1973,2,3,PHI,Allan,Bristow,bristal01,Virginia Tech,N
 1973,2,4,PHI,George,McGinnis,McGinGe01,Indiana,N
-1973,2,5,LAL,Bill,Schaeffer,SchaeBi01,St. John's,N
+1973,2,5,LAL,Bill,Schaeffer,SchaeBi01,St. Johns,N
 1973,2,6,Chi,Kevin,Stacom,StacoKe01,Providence,N
 1973,2,7,KCK,Larry,McNeill,McNeiLa01,Marquette,N
 1973,2,8,CLE,Allan,Hornyak,,Ohio State,N
 1973,2,9,Atl,Tom,Ingelsby,IngelTo01,Villanova,N
-1973,2,10,NYK,Pat,McFarland,McFarPa01,St. Joseph's,N
+1973,2,10,NYK,Pat,McFarland,McFarPa01,St. Josephs,N
 1973,2,11,GSW,Derrek,Dickey,DickeDe01,Cincinnati,N
 1973,2,12,Chi,Wendell,Hudson,,Alabama,N
 1973,2,13,LAL,Jim,Chones,ChoneJi01,Marquette,N
@@ -4390,7 +4390,7 @@
 1973,3,17,Bos,Martinez,Denmon,,Iowa State,N
 1973,4,0,CAR,Kresimer,Cosic,,Brigham Young,A
 1973,4,0,CAR,David,Angel,,Clemson,A
-1973,4,0,DEN,Pat,McFarland,McFarPa01,St. Joseph's (PA),A
+1973,4,0,DEN,Pat,McFarland,McFarPa01,St. Josephs (PA),A
 1973,4,0,IND,John,Ritter,,Indiana,A
 1973,4,0,KEN,Ron,Behagen,BehagRo01,Minnesota,A
 1973,4,0,KEN,Fran,Costello,,Providence,A
@@ -4486,7 +4486,7 @@
 1973,6,16,LAL,David,Brent,,Jacksonville,N
 1973,6,17,Bos,Joe,Cafferky,,North Carolina State,N
 1973,7,0,CAR,Ozzie,Edwards,,Oklahoma City,A
-1973,7,0,CAR,Dale,Adams,,Mount St. Mary's,A
+1973,7,0,CAR,Dale,Adams,,Mount St. Marys,A
 1973,7,0,DEN,James,Brown,,Harvard,A
 1973,7,0,IND,Jim,Andrews,,Kentucky,A
 1973,7,0,KEN,Les,Taylor,,Murray State,A
@@ -4615,7 +4615,7 @@
 1973,11,4,CLE,Floyd,Lewis,,Harvard,N
 1973,11,5,PHO,Lynn,Greer,,Virginia State,N
 1973,11,6,Det,Len,Paul,,Akron,N
-1973,11,7,Cap,Dale,Adams,,St. Mary's (MD),N
+1973,11,7,Cap,Dale,Adams,,St. Marys (MD),N
 1973,11,8,NYK,Charles,Edge,EdgeCh01 ,LeMoyne-Owen,N
 1973,11,9,Bos,Ed,Hastings,,Villanova,N
 1973,12,0,mmt,Greg,Juricisin,,Cincinnati,A
@@ -4646,13 +4646,13 @@
 1973,15,1,PHI,Lionel,Harris,,Cincinnati,N
 1973,15,2,BUF,John,Fraley,,Georgia,N
 1973,15,3,CLE,Reese,Stovall,,Pan American,N
-1973,15,4,Cap,Shorty,Simmons,,St. Mary's (MD),N
+1973,15,4,Cap,Shorty,Simmons,,St. Marys (MD),N
 1973,15,5,Bos,James,Gilchrist,,Florida Southern,N
 1973,16,1,PHI,Larry,Robinson,,Tennessee,N
 1973,16,2,BUF,John,Green,,Oregon,N
 1973,16,3,CLE,Tom,OConnor,,Iowa,N
 1973,16,4,Bos,Sam,Barber,,Bethune Cookman,N
-1973,17,1,PHI,Tony,Prince,,St. John's,N
+1973,17,1,PHI,Tony,Prince,,St. Johns,N
 1973,17,2,BUF,James,Garvin,GarviJi01,Boston University,N
 1973,17,3,CLE,Phil,Elderkin,,Boston University,N
 1973,17,4,Bos,Lamont,King,,Long Beach State,N
@@ -4842,7 +4842,7 @@
 1974,5,7,Atl,Tyrone,Medley,,Utah,N
 1974,5,8,Sea,Dean,Tolson,TolsoDe01,Arkansas,N
 1974,5,9,BUF,Tony,Byers,,Wake Forest,N
-1974,5,10,NOJ,Ed,Searcy,SearcEd01,St. John's,N
+1974,5,10,NOJ,Ed,Searcy,SearcEd01,St. Johns,N
 1974,5,11,GSW,Steve,Erickson,,Oregon,N
 1974,5,12,LAL,Seymour,Reed,,Bradley,N
 1974,5,13,WA1,Gary,Anderson,,Washington,N
@@ -5042,7 +5042,7 @@
 1975,2,12,Chi,Steve,Green,GreenSt01,Indiana,N
 1975,2,13,KCK,Glenn,Hansen,HanseGl01,Louisiana State,N
 1975,2,14,Chi,John,Laskowski,LaskoJo01,Indiana,N
-1975,2,15,CLE,Mel,Utley,,St. John's,N
+1975,2,15,CLE,Mel,Utley,,St. Johns,N
 1975,2,16,NYK,Larry,Fogle,FogleLa01,Canisius,N
 1975,2,17,PHO,Allen,Murphy,MurphAl01,Louisville,N
 1975,2,18,PHO,Jimmy,conner,conneJi01,Kentucky,N
@@ -5096,7 +5096,7 @@
 1975,4,10,Det,Lindsay,Hairston,HairsLi01,Michigan State,N
 1975,4,11,HOU,Ken,Smith,SmithKe03,Tulsa,N
 1975,4,12,Sea,Jim,Moore,,Utah State,N
-1975,4,13,KCK,Kevin,Cleuss,,St. John's,N
+1975,4,13,KCK,Kevin,Cleuss,,St. Johns,N
 1975,4,14,Chi,Ron,Haigler,,Penn,N
 1975,4,15,GSW,Billy,Taylor,,La Salle,N
 1975,4,16,BUF,Bob,Fleischer,,Duke,N
@@ -5132,7 +5132,7 @@
 1975,5,18,WA1,Rich,Jones,,Virginia Commonwealth,N
 1975,6,0,DEN,Charles,Russell,,Alabama,A
 1975,6,0,IND,Mike,Flynn,FlynnMi01,Kentucky,A
-1975,6,0,KEN,Mike,Rozenski,,St. Mary's (CA),A
+1975,6,0,KEN,Mike,Rozenski,,St. Marys (CA),A
 1975,6,0,mms,Terry,Furlow,FurloTe01,Michigan State,A
 1975,6,0,nyn,Mike,Mitchell,MitchMi01,Auburn,A
 1975,6,0,sas,Bayard,Forrest,ForreBa01,Grand Canyon,A
@@ -5191,7 +5191,7 @@
 1975,8,0,KEN,Lou,Silver,,Harvard,A
 1975,8,0,mms,John,Murphy,,Massachusetts,A
 1975,8,0,nyn,John,Lambert,LambeJo01,Southern California,A
-1975,8,0,sas,Gary,Tomaszewski,,St. Mary's (TX),A
+1975,8,0,sas,Gary,Tomaszewski,,St. Marys (TX),A
 1975,8,0,sds,Mack,Coleman,,Houston Baptist,A
 1975,8,0,stl,Ted,Hathaway,,Cleveland State,A
 1975,8,0,uts,Kirk,Bruce,,Pittsburgh,A
@@ -5210,7 +5210,7 @@
 1975,8,12,Sea,Ken,McKenzie,,Montana,N
 1975,8,13,KCK,Jim,Bostic,BostiJi01,New Mexico State,N
 1975,8,14,Chi,John,Murphy,,Massachusetts,N
-1975,8,15,GSW,Mike,Rozenski,,St. Mary's (CA),N
+1975,8,15,GSW,Mike,Rozenski,,St. Marys (CA),N
 1975,8,16,BUF,Allen,Jones,,Pepperdine,N
 1975,8,17,WA1,Bruce,Hamming,,Augustana,N
 1975,8,18,Bos,Roger,Morningstar,,Kansas,N
@@ -5225,7 +5225,7 @@
 1975,9,9,NYK,Tim,Van Blommesteyn,,Princeton,N
 1975,9,10,HOU,Steve,Storther,,Providence,N
 1975,9,11,Sea,Rich,Haws,,Utah State,N
-1975,9,12,Chi,Gary,Tomaszewski,,St. Mary's (TX),N
+1975,9,12,Chi,Gary,Tomaszewski,,St. Marys (TX),N
 1975,9,13,GSW,Scott,Trobbe,,Stanford,N
 1975,9,14,BUF,George,Rautins,,Niagara,N
 1975,9,15,Bos,Robert,Rhodes,,Albany State (GA),N
@@ -5238,9 +5238,9 @@
 1975,10,6,POR,Tyree,Foster,,Portland,N
 1975,10,7,CLE,Eric,Anderson,,McAlister,N
 1975,10,8,NYK,Mo,Rivers,,North Carolina State,N
-1975,10,9,Det,Mickey,Fox,,St. Mary's (Canada),N
+1975,10,9,Det,Mickey,Fox,,St. Marys (Canada),N
 1975,10,10,Sea,Jerry,Bellotti,,Santa Clara,N
-1975,10,11,GSW,Maurice,Harper,,St. Mary's (CA),N
+1975,10,11,GSW,Maurice,Harper,,St. Marys (CA),N
 1975,10,12,BUF,Art,Allen,,Pepperdine,N
 1975,10,13,WA1,Mike,Fahey,,Brandeis,N
 1975,10,14,Bos,Bill,Endicott,,Massachusetts,N
@@ -5331,10 +5331,10 @@
 1976,5,5,POR,Gary,Reddings,,Auburn,N
 1976,5,6,NOJ,Paul,Griffin,GriffPa01,Western Michigan,N
 1976,5,7,Mil,Tom,Lockhart,,Manhattan,N
-1976,5,8,NYK,Beaver,Smith,,St. John's,N
+1976,5,8,NYK,Beaver,Smith,,St. Johns,N
 1976,5,9,Mil,James,Rappis,,Arizona,N
 1976,5,10,HOU,Dave,Marrs,,Houston,N
-1976,5,11,PHO,Ralph,Walker,,St. Mary's (CA),N
+1976,5,11,PHO,Ralph,Walker,,St. Marys (CA),N
 1976,5,12,Sea,Robert,Gray,,Wichita State,N
 1976,5,13,PHI,Jeff,Browne,,Missouri Western,N
 1976,5,14,Atl,Connie,White,,California,N
@@ -5455,7 +5455,7 @@
 1977,2,2,BUF,Larry,Johnson,JohnsLa02,Kentucky,N
 1977,2,3,PHI,Wilson,Washington,WashiWi01,Old Dominion,N
 1977,2,4,NYK,Glen,Gondrezick,GondrGl01,Nevada-Las Vegas,N
-1977,2,5,Mil,Glenn,Williams,,St. John's,N
+1977,2,5,Mil,Glenn,Williams,,St. Johns,N
 1977,2,6,POR,Kim,Anderson,AnderKi01,Missouri,N
 1977,2,7,Ind,Alonzo,Bradley,BradlAl01,Texas Southern,N
 1977,2,8,Chi,Steve,Sheppard,SheppSt01,Maryland,N
@@ -5468,7 +5468,7 @@
 1977,2,15,SAS,Jeff,Wilkins,WilkiJe01,Illinois State,N
 1977,2,16,GSW,Ricky,Love,,Alabama-Huntsville,N
 1977,2,17,WA1,Phil,Walker,WalkePh01,Millersville,N
-1977,2,18,HOU,Robert,Reid,ReidRo01 ,St. Mary's (TX),N
+1977,2,18,HOU,Robert,Reid,ReidRo01 ,St. Marys (TX),N
 1977,2,19,POR,T.R.,Dunn,DunnTR01 ,Alabama,N
 1977,2,20,PHI,Bob,Elliott,EllioBo01,Arizona,N
 1977,2,21,PHI,Herm,Harris,,Arizona,N
@@ -5521,7 +5521,7 @@
 1977,5,2,BUF,Mike,Hanley,,Niagara,N
 1977,5,3,Mil,Ron,Norwood,,DePaul,N
 1977,5,4,Atl,Bill,Gordon,,Tennessee-Chattanooga,N
-1977,5,5,PHO,Cecil,Rellford,,St. John's,N
+1977,5,5,PHO,Cecil,Rellford,,St. Johns,N
 1977,5,6,NOJ,Jim,Grady,,Gonzaga,N
 1977,5,7,Ind,Marvin,Jackson,,Prairie View A&M,N
 1977,5,8,Sea,Dale,Haberman,,McKendree,N
@@ -5568,7 +5568,7 @@
 1977,7,6,NOJ,Lusia,Harris,,Delta State,N
 1977,7,7,Sea,Billy,Reynolds,,NW Louisiana,N
 1977,7,8,KCK,Bruce,Jenner,,Graceland,N
-1977,7,9,NYK,Tom,Weadock,,St. John's,N
+1977,7,9,NYK,Tom,Weadock,,St. Johns,N
 1977,7,10,CLE,Bob,Riddle,,Eastern Michigan,N
 1977,7,11,Bos,Dave,Kyle,,Cleveland State,N
 1977,7,12,Chi,Mike,Smith,,Evansville,N
@@ -5587,7 +5587,7 @@
 1977,8,5,PHO,Alvin,Joseph,,California-Riverside,N
 1977,8,6,NOJ,Dave,Speicher,,Toledo,N
 1977,8,8,Sea,Jeff,Frey,,Evansville,N
-1977,8,10,NYK,Ken,Slappy,,St. Peter's,N
+1977,8,10,NYK,Ken,Slappy,,St. Peters,N
 1977,8,11,CLE,Tom,Cutter,,Western Michigan,N
 1977,8,12,Bos,Tom,Harris,,Bowling Green,N
 1977,8,13,Chi,Rich,Rhodes,,Eastern Illinois,N
@@ -5610,7 +5610,7 @@
 1978,1,9,Chi,Reggie,Theus,TheusRe01,Nevada-Las Vegas,N
 1978,1,10,Atl,Butch,Lee,LeeBu01  ,Marquette,N
 1978,1,11,NOJ,James,Hardy,HardyJa01,San Francisco,N
-1978,1,12,Mil,George,Johnson,JohnsGe03,St. John's,N
+1978,1,12,Mil,George,Johnson,JohnsGe03,St. Johns,N
 1978,1,13,NJN,Winford,Boynes,,San Francisco,N
 1978,1,14,WA1,Roger,Phegley,PheglRo01,Bradley,N
 1978,1,15,CLE,Mike,Mitchell,MitchMi01,Auburn,N
@@ -5740,7 +5740,7 @@
 1978,7,8,NOJ,Willie,Howard,,New Mexico,N
 1978,7,9,Chi,Jarvis,Reynolds,,West Georgia,N
 1978,7,10,Atl,Jim,DeWeese,,Gonzaga,N
-1978,7,11,GSW,Rick,Bernard,,St. Mary's (CA),N
+1978,7,11,GSW,Rick,Bernard,,St. Marys (CA),N
 1978,7,12,CLE,Tony,Smith,,Nevada-Las Vegas,N
 1978,7,13,NYK,Gary,Pember,,Nasson,N
 1978,7,14,WA1,Ed,Hopkins,,Georgetown,N
@@ -5827,7 +5827,7 @@
 1979,2,2,PHO,Johnny,High,HighJo01 ,Nevada-Reno,N
 1979,2,3,LAL,Oliver,Mack,MackOl01 ,East Carolina,N
 1979,2,4,CLE,Bruce,Flowers,FloweBr01,Notre Dame,N
-1979,2,5,NYK,Reggie,Carter,CarteRe01,St. John's,N
+1979,2,5,NYK,Reggie,Carter,CarteRe01,St. Johns,N
 1979,2,6,GSW,Danny,Salisbury,,Pan American,N
 1979,2,7,Det,Tony,Price,PriceTo01,Penn,N
 1979,2,8,Den,Gary,Garland,GarlaGa01,DePaul,N
@@ -5856,7 +5856,7 @@
 1979,3,9,Bos,Wayne,Kreklow,KreklWa01,Drake,N
 1979,3,10,GSW,Lynbert,Johnson,JohnsLy01,Wichita State,N
 1979,3,11,SDC,Tom,Channel,,Boston U,N
-1979,3,12,POR,Mickey,Fox,,St. Mary's (Canada),N
+1979,3,12,POR,Mickey,Fox,,St. Marys (Canada),N
 1979,3,13,Atl,Don,March,,Franklin & Marshall,N
 1979,3,14,PHI,Earl,Cureton,CuretEa01,Detroit,N
 1979,3,15,HOU,Ricardo,Brown,,Pepperdine,N
@@ -5932,7 +5932,7 @@
 1979,7,1,UTA,Paul,Poe,,Louisiana,N
 1979,7,2,Bos,Steve,Castellan,,Virginia,N
 1979,7,3,CLE,Steve,Skaggs,,Ohio,N
-1979,7,4,Det,Ken,Jones,,St. Mary's (CA),N
+1979,7,4,Det,Ken,Jones,,St. Marys (CA),N
 1979,7,5,Chi,Mike,Eversley,,Chicago State,N
 1979,7,6,NYK,Marc,Coleman,,Seton Hall,N
 1979,7,7,NJN,Jim,Strickland,,South Carolina,N
@@ -5989,7 +5989,7 @@
 1979,10,2,Bos,Alton,Byrd,,Columbia,N
 1979,10,3,Det,Willie,Polk,,Grand Canyon,N
 1979,10,4,CLE,Terry,Peavy,,Point Park,N
-1979,10,5,NYK,Gordon,Thomas,,St. John's,N
+1979,10,5,NYK,Gordon,Thomas,,St. Johns,N
 1979,10,6,Chi,Marvin,Thoms,,UCLA,N
 1979,10,7,NJN,Eric,Fleisher,,Tulane,N
 1979,10,8,GSW,Kevin,Heenan,,Cal State-Fullerton,N
@@ -6122,7 +6122,7 @@
 1980,6,2,GSW,Neil,Bresnahan,,Illinois,N
 1980,6,3,UTA,Ken,Cunningham,,Western Michigan,N
 1980,6,4,Den,Ernie,Hill,,Oklahoma City,N
-1980,6,5,Chi,Bernard,Rencher,,St. John's,N
+1980,6,5,Chi,Bernard,Rencher,,St. Johns,N
 1980,6,6,NJN,Rick,Mattick,,Louisiana State,N
 1980,6,7,SDC,Londale,Theus,,Santa Clara,N
 1980,6,8,CLE,Antonio,Martin,,Oral Roberts,N
@@ -6165,7 +6165,7 @@
 1980,7,22,Bos,Les,Hanson,,Virginia Tech,N
 1980,8,1,Det,Leroy,Loggins,,Fairmont State,N
 1980,8,2,GSW,Kurt,Kanaskie,,La Salle,N
-1980,8,3,UTA,Jim,Brandon,,St. Peter's,N
+1980,8,3,UTA,Jim,Brandon,,St. Peters,N
 1980,8,4,Chi,Modzel,Greer,,North Park,N
 1980,8,5,NJN,Lloyd,Terry,,New Orleans,N
 1980,8,6,CLE,Jim,Ellinghausen,,Ohio State,N
@@ -6200,7 +6200,7 @@
 1980,9,16,Atl,Stanley,Lamb,,Steubenville,N
 1980,9,17,PHO,Keith,French,,North Park,N
 1980,9,18,Sea,Jim,Tillman,,Eastern Kentucky,N
-1980,9,19,PHI,Luke,Griffin,,St. Joseph's,N
+1980,9,19,PHI,Luke,Griffin,,St. Josephs,N
 1980,9,20,Bos,Brian,Jung,,Northwestern,N
 1980,10,1,GSW,Tim,Higgins,,Kearney State,N
 1980,10,2,UTA,Leroy,Coleman,,Middle Tennessee,N
@@ -6279,7 +6279,7 @@
 1981,3,14,Ind,Purvis,Miller,,USC,N
 1981,3,15,POR,Petur,Gudmundsson,GudmuPe01,Washington,N
 1981,3,16,PHO,Sam,Clancy,,Pittsburgh,N
-1981,3,17,NYK,Wayne,McKoy,,St. John's,N
+1981,3,17,NYK,Wayne,McKoy,,St. Johns,N
 1981,3,18,SAS,Tom,Baker,BakerTo01,Eastern Kentucky,N
 1981,3,19,LAL,Ron,Cornelius,,Pacific,N
 1981,3,20,PHO,Craig,Dykema,DykemCr01,Long Beach State,N
@@ -6385,21 +6385,21 @@
 1981,8,5,CLE,Glen,Marcus,,Alabama-Birmingham,N
 1981,8,6,Atl,Gilbert,Salinas,,Notre Dame,N
 1981,8,7,SDC,Todd,Haynes,,Davidson,N
-1981,8,8,Den,Curtis,Redding,,St. John's,N
+1981,8,8,Den,Curtis,Redding,,St. Johns,N
 1981,8,9,WA1,Mike,Howard,,Wofford,N
 1981,8,10,GSW,Yasutaka,Okayama,,None (Japan),N
 1981,8,11,HOU,Stanley,Brewer,,Western Georgia,N
 1981,8,12,KCK,Randy,Smithson,,Wichita State,N
 1981,8,13,Ind,Len,Hatzenbeller,,Drexel,N
 1981,8,14,Chi,Ben,Mitchell,,Alabama-Huntsville,N
-1981,8,15,POR,John,Smith,,St. Joseph's,N
+1981,8,15,POR,John,Smith,,St. Josephs,N
 1981,8,16,NYK,Brian,OConnor,,Thomas More (KY),N
 1981,8,17,SAS,Bob,Bartholomew,,San Diego,N
 1981,8,18,LAL,Jay,Triano,,Simon Fraser (Canada),N
 1981,8,19,PHO,Steve,Risley,,Indiana,N
 1981,8,20,Mil,Mike,Brkovich,,Michigan State,N
 1981,8,21,Bos,George,Morrow,,Creighton,N
-1981,8,22,PHI,Frank,Gilroy,,St. John's,N
+1981,8,22,PHI,Frank,Gilroy,,St. Johns,N
 1981,9,1,DAL,John,Hollinden,,Indiana State-Evansville,N
 1981,9,2,Det,Eddie,Baker,,Alcorn State,N
 1981,9,3,NJN,Rudy,Williams,,Providence,N
@@ -6434,7 +6434,7 @@
 1981,10,13,Ind,Rodney,Benson,,Wright State,N
 1981,10,14,Chi,Kenny,Easley,,UCLA,N
 1981,10,15,POR,Steve,Cochran,,Lewis & Clark,N
-1981,10,16,NYK,Kevin,Rogers,,St. Peter's,N
+1981,10,16,NYK,Kevin,Rogers,,St. Peters,N
 1981,10,17,SAS,Alvin,Brooks,,Lamar,N
 1981,10,19,PHO,Felton,Sealey,,Oregon,N
 1981,10,20,Mil,Artie,Green,,Marquette,N
@@ -6464,7 +6464,7 @@
 1982,1,22,PHI,Mark,McNamara,McNamMa01,California,N
 1982,1,23,Bos,Darren,Tillis,TilliDa01,Cleveland State,N
 1982,2,1,SAS,Oliver,Robinson,RobinOl01,Alabama-Birmingham,N
-1982,2,2,WA1,Bryan,Warrick,WarriBr01,St. Joseph's,N
+1982,2,2,WA1,Bryan,Warrick,WarriBr01,St. Josephs,N
 1982,2,3,Chi,Ricky,Frazier,,Missouri,N
 1982,2,4,Mil,Fred,Roberts,RoberFr01,Brigham Young,N
 1982,2,5,CLE,David,Magley,MagleDa01,Kansas,N
@@ -6554,7 +6554,7 @@
 1982,5,20,WA1,Jerry,Davis,,Detroit,N
 1982,5,21,LAL,Howard,McNeill,,Seton Hall,N
 1982,5,22,PHI,Donald,Mason,,Fresno State,N
-1982,5,23,Bos,William,Brown,,St. Peter's,N
+1982,5,23,Bos,William,Brown,,St. Peters,N
 1982,6,1,CLE,Vince,Reynolds,,South Florida,N
 1982,6,2,SDC,Eric,Marbury,,Georgia,N
 1982,6,3,UTA,Alvin,Jackson,,Southern,N
@@ -6562,13 +6562,13 @@
 1982,6,5,KCK,Poncho,Wright,,Louisville,N
 1982,6,6,NYK,Mike,Kanieski,,Dayton,N
 1982,6,7,Chi,BB,Fontenet,,Nevada-Reno,N
-1982,6,8,Ind,Jeff,Clark,,St. Joseph's,N
+1982,6,8,Ind,Jeff,Clark,,St. Josephs,N
 1982,6,9,Det,Gary,Holmes,,Minnesota,N
 1982,6,10,POR,Leo,Cunningham,,Utah State,N
-1982,6,11,Atl,Jay,Bruchak,,Mt. St. Mary's,N
+1982,6,11,Atl,Jay,Bruchak,,Mt. St. Marys,N
 1982,6,12,WA1,Byron,Williams,,Idaho State,N
 1982,6,13,NJN,Mel,Daniel,,Furman,N
-1982,6,14,GSW,David,Vann,,St. Mary's (CA),N
+1982,6,14,GSW,David,Vann,,St. Marys (CA),N
 1982,6,15,PHO,Jake,Bethany,,Hardin-Simmons,N
 1982,6,16,Den,Chris,Brust,,North Carolina,N
 1982,6,17,HOU,Don,Wilson,,NE Louisiana,N
@@ -6634,13 +6634,13 @@
 1982,9,8,Ind,Mike,Scearce,,Purdue,N
 1982,9,9,Det,Kevin,Smith,,Michigan State,N
 1982,9,10,Atl,Pierre,Bland,,Elizabeth City,N
-1982,9,11,POR,Mark,Dearborn,,St. Joseph's,N
+1982,9,11,POR,Mark,Dearborn,,St. Josephs,N
 1982,9,12,WA1,James,Terry,,Howard,N
 1982,9,13,NJN,Gary,Johnson,,Oral Roberts,N
 1982,9,14,GSW,Nick,Morken,,Tennessee,N
 1982,9,15,PHO,Ken,Lyles,,Washington,N
 1982,9,16,Den,Dean,Sears,,UCLA,N
-1982,9,17,SAS,Harry,OBrien,,St. Mary's (TX),N
+1982,9,17,SAS,Harry,OBrien,,St. Marys (TX),N
 1982,9,18,Mil,Robert,Tate,,Idaho State,N
 1982,9,19,LAL,Tim,Byrne,,Rutgers,N
 1982,9,20,PHI,George,Melton,,Cheyney State,N
@@ -6701,7 +6701,7 @@
 1983,2,10,WA1,Guy,Williams,WilliGu02,Washington State,N
 1983,2,11,SAS,Darrell,Lockhart,LockhDa01,Auburn,N
 1983,2,12,Sea,Scooter,McCray,McCraSc01,Louisville,N
-1983,2,13,Den,David,Russell,,St. John's,N
+1983,2,13,Den,David,Russell,,St. Johns,N
 1983,2,14,KCK,Chris,McNealy,McNeaCh01,San Jose State,N
 1983,2,15,POR,Granville,Waiters,WaiteGr01,Ohio State,N
 1983,2,16,Ind,James,Thomas,ThomaJi01,Indiana,N
@@ -6710,7 +6710,7 @@
 1983,2,19,GSW,Pace,Mannion,ManniPa01,Utah,N
 1983,2,20,NJN,Horace,Owens,,Rhode Island,N
 1983,2,21,PHO,Paul,Williams,,Arizona State,N
-1983,2,22,SAS,Kevin,Williams,WilliKe02,St. John's,N
+1983,2,22,SAS,Kevin,Williams,WilliKe02,St. Johns,N
 1983,2,23,PHI,Ken,Lyons,,North Texas State,N
 1983,3,1,HOU,Craig,Ehlo,EhloCr01 ,Washington State,N
 1983,3,2,Ind,Greg,Jones,,West Virginia,N
@@ -6729,7 +6729,7 @@
 1983,3,15,POR,Tom,Piotrowski,PiotrTo01,La Salle,N
 1983,3,16,Sea,Frank,Burnell,,Stetson,N
 1983,3,17,PHI,Claude,Riley,,Texas A&M,N
-1983,3,18,Mil,Billy,Goodwin,,St. John's,N
+1983,3,18,Mil,Billy,Goodwin,,St. Johns,N
 1983,3,19,CLE,Les,Craft,,Kansas State,N
 1983,3,20,CLE,Derrick,Hord,,Kentucky,N
 1983,3,21,Bos,Craig,Robinson,RobinCr01,Virginia,N
@@ -6741,7 +6741,7 @@
 1983,4,4,PHI,Kalpatrick,Wells,,Mississippi State,N
 1983,4,5,Chi,Ron,Crevier,CreviRo01,Boston College,N
 1983,4,6,UTA,Doug,Arnold,,Texas Christian,N
-1983,4,7,GSW,Pete,Thibeaux,ThibePe01,St. Mary's (CA),N
+1983,4,7,GSW,Pete,Thibeaux,ThibePe01,St. Marys (CA),N
 1983,4,8,Det,Steve,Bouchie,,Indiana,N
 1983,4,9,DAL,Johnny,Martin,,NW Louisiana,N
 1983,4,10,WA1,Dan,Gay,,SW Louisiana,N
@@ -6790,7 +6790,7 @@
 1983,6,7,GSW,Tom,Heywood,,Weber State,N
 1983,6,8,Det,Derek,Perry,,Michigan State,N
 1983,6,9,DAL,Billy,Allen,,Nevada-Reno,N
-1983,6,10,WA1,Donald,Carroll,,St. Augustine's,N
+1983,6,10,WA1,Donald,Carroll,,St. Augustines,N
 1983,6,11,Atl,Tom,Bethea,,Richmond,N
 1983,6,12,NYK,Tony,Simms,,Boston U,N
 1983,6,13,Den,Glenn,Green,,Murray State,N
@@ -6800,7 +6800,7 @@
 1983,6,17,NJN,Oscar,Taylor,,New Orleans,N
 1983,6,18,Mil,Charles,Hurt,,Kentucky,N
 1983,6,19,PHO,Edward,Bona,,Fordham,N
-1983,6,20,SAS,Ricky,Hooker,,St. Mary's (TX),N
+1983,6,20,SAS,Ricky,Hooker,,St. Marys (TX),N
 1983,6,21,Bos,Paul,Atkins,,Houston Baptist,N
 1983,6,22,LAL,Mark,Steele,,Colorado State,N
 1983,6,23,PHI,Sedale,Threatt,ThreaSe01,West Virginia Tech,N
@@ -6867,7 +6867,7 @@
 1983,9,16,Sea,Tony,Washington,,Hampton Institute,N
 1983,9,17,NJN,Kevin,Black,,Rutgers,N
 1983,9,18,Mil,Bill,Varner,,Notre Dame,N
-1983,9,19,SAS,Gary,Gaspard,,St. Mary's (TX),N
+1983,9,19,SAS,Gary,Gaspard,,St. Marys (TX),N
 1983,9,20,PHO,Joe,Dykstra,,Western Illinois,N
 1983,9,21,Bos,John,Rice,,Massachusetts-Boston,N
 1983,9,22,PHI,Charles,Fisher,,James Madison,N
@@ -6887,7 +6887,7 @@
 1983,10,15,POR,Russ,Christianson,,East Oregon State,N
 1983,10,16,Sea,David,Binion,,North Carolina Central,N
 1983,10,17,NJN,Rich,Simkus,,Princeton,N
-1983,10,18,Mil,Bob,Kelly,,St. John's,N
+1983,10,18,Mil,Bob,Kelly,,St. Johns,N
 1983,10,19,PHO,Bo,Overton,,Oklahoma,N
 1983,10,20,SAS,Lamar,Heard,,Georgia,N
 1983,10,21,Bos,Andy,Kupec,,Bentley,N
@@ -6924,7 +6924,7 @@
 1984,2,7,GSW,Jay,Murphy,MurphJa01,Boston College,N
 1984,2,8,Det,Eric,Turner,,Michigan,N
 1984,2,9,POR,Steve,Colter,ColteSt01,New Mexico State,N
-1984,2,10,WA1,Tony,Costner,,St. Joseph's,N
+1984,2,10,WA1,Tony,Costner,,St. Josephs,N
 1984,2,11,GSW,Othell,Wilson,WilsoOt01,Virginia,N
 1984,2,12,PHO,Charles,Jones,JonesCh03,Louisville,N
 1984,2,13,Chi,Ben,Coleman,ColemBe01,Maryland,N
@@ -6946,7 +6946,7 @@
 1984,3,6,WA1,Ricky,Ross,,Tulsa,N
 1984,3,7,KCK,Roosevelt,Chapman,,Dayton,N
 1984,3,8,GSW,Lewis,Jackson,,Alabama State,N
-1984,3,9,KCK,Jeff,Allen,,St. John's,N
+1984,3,9,KCK,Jeff,Allen,,St. Johns,N
 1984,3,10,SAS,Jeff,Binion,,North Carolina A&T,N
 1984,3,11,Atl,Bobby,Parks,,Memphis State,N
 1984,3,12,PHO,Murray,Jarman,,Clemson,N
@@ -6956,7 +6956,7 @@
 1984,3,16,NJN,Yommy,Sangodeyi,,Sam Houston State,N
 1984,3,17,NYK,Curtis,Green,,Southern Mississippi,N
 1984,3,18,POR,Tim,Kearney,,West Virginia,N
-1984,3,19,Det,Kevin,Springman,,St. Joseph's,N
+1984,3,19,Det,Kevin,Springman,,St. Josephs,N
 1984,3,20,Mil,Vernon,Delancy,,Florida,N
 1984,3,21,PHI,Butch,Graves,GraveBu01,Yale,N
 1984,3,22,LAL,George,Singleton,,Furman,N
@@ -7081,7 +7081,7 @@
 1984,9,4,HOU,Bill,Coon,,Presbyterian,N
 1984,9,5,LAC,Dave,Schultz,,Westmont,N
 1984,9,6,WA1,Mike,Emanuel,,Pembroke State,N
-1984,9,7,SAS,Melvin,Roseboro,,St. Mary's (TX),N
+1984,9,7,SAS,Melvin,Roseboro,,St. Marys (TX),N
 1984,9,8,GSW,Mitch,Arnold,,Fresno State,N
 1984,9,9,KCK,Greg,Turner,,Auburn,N
 1984,9,10,Den,Cecil,Exum,,North Carolina,N
@@ -7111,7 +7111,7 @@
 1984,10,12,PHO,Ezra,Hill,,Liberty Baptist,N
 1984,10,13,Sea,Greg,Brandon,,Creighton,N
 1984,10,14,DAL,Napoleon,Johnson,,Grambling,N
-1984,10,15,NJN,Phil,Jamison,,St. Peter's,N
+1984,10,15,NJN,Phil,Jamison,,St. Peters,N
 1984,10,16,UTA,Mike,Curran,,Niagara,N
 1984,10,17,NYK,Mike,Henderson,,C.W. Post,N
 1984,10,18,POR,Randy,Dunn,,George Fox,N
@@ -7125,7 +7125,7 @@
 1985,1,4,Sea,Xavier,McDaniel,McDanXa01,Wichita State,N
 1985,1,5,Atl,Jon,Koncak,KoncaJo01,Southern Methodist,N
 1985,1,6,Sac,Joe,Kleine,KleinJo01,Arkansas,N
-1985,1,7,GSW,Chris,Mullin,MulliCh01,St. John's,N
+1985,1,7,GSW,Chris,Mullin,MulliCh01,St. Johns,N
 1985,1,8,DAL,Detlef,Schrempf,SchreDe01,Washington,N
 1985,1,9,CLE,Charles,Oakley,OakleCh01,Virginia Union,N
 1985,1,10,PHO,Ed,Pinckney,PinckEd01,Villanova,N
@@ -7134,7 +7134,7 @@
 1985,1,13,UTA,Karl,Malone,MalonKa01,Louisiana Tech,N
 1985,1,14,SAS,Alfredrick,Hughes,HugheAl01,Loyola (IL),N
 1985,1,15,Den,Blair,Rasmussen,RasmuBl01,Oregon,N
-1985,1,16,DAL,Bill,Wennington,WenniBi01,St. John's,N
+1985,1,16,DAL,Bill,Wennington,WenniBi01,St. Johns,N
 1985,1,17,DAL,Uwe,Blab,BlabUw01 ,Indiana,N
 1985,1,18,Det,Joe,Dumars,DumarJo01,McNeese State,N
 1985,1,19,HOU,Steve,Harris,HarriSt01,Tulsa,N
@@ -7216,7 +7216,7 @@
 1985,5,2,GSW,Greg,Cavener,,Missouri,N
 1985,5,3,NYK,Mike,Schlegel,,Virginia Commonwealth,N
 1985,5,4,Sea,Lou,Stefanovic,,Illinois State,N
-1985,5,5,Sac,Bob,Lojewski,,St. Joseph's,N
+1985,5,5,Sac,Bob,Lojewski,,St. Josephs,N
 1985,5,6,LAC,Wayne,Carlander,,USC,N
 1985,5,7,Atl,Larry,Hampton,,Hampton Institute,N
 1985,5,8,CLE,Gunther,Behnke,,None (West Germany),N
@@ -7294,9 +7294,9 @@
 1986,1,11,Det,John,Salley,sallejo01,Georgia Tech,N
 1986,1,12,WA1,John,Williams,WilliJo01,Louisiana State,N
 1986,1,13,NJN,Dwayne,Washington,WashiDw01,Syracuse,N
-1986,1,14,POR,Walter,Berry,BerryWa01,St. John's,N
+1986,1,14,POR,Walter,Berry,BerryWa01,St. Johns,N
 1986,1,15,UTA,Dell,Curry,CurryDe01,Virginia Tech,N
-1986,1,16,Den,Mo,Martin,MartiMo01,St. Joseph's,N
+1986,1,16,Den,Mo,Martin,MartiMo01,St. Josephs,N
 1986,1,17,Sac,Harold,Pressley,PressHa01,Villanova,N
 1986,1,18,Den,Mark,Alarie,AlariMa01,Duke,N
 1986,1,19,Atl,Billy,Thompson,ThompBi01,Louisville,N
@@ -7347,7 +7347,7 @@
 1986,3,17,Den,Don,Redden,,Louisiana State,N
 1986,3,18,Atl,Dave,Hoppen,HoppeDa01,Nebraska,N
 1986,3,19,HOU,Anthony,Bowie,BowieAn01,Oklahoma,N
-1986,3,20,PHI,Ron,Rowan,RowanRo01,St. John's,N
+1986,3,20,PHI,Ron,Rowan,RowanRo01,St. Johns,N
 1986,3,21,Mil,Baskerville,Holmes,,Memphis State,N
 1986,3,22,LAL,Andre,Turner,TurneAn01,Memphis State,N
 1986,3,23,Atl,Jim,Les,LesJi01  ,Bradley,N
@@ -7460,7 +7460,7 @@
 1987,1,15,UTA,Jose,Ortiz,OrtizJo01,Oregon State,N
 1987,1,16,PHI,Christian,Welp,WelpCh01 ,Washington,N
 1987,1,17,POR,Ronnie,Murphy,MurphRo01,Jacksonville,N
-1987,1,18,NYK,Mark,Jackson,JacksMa01,St. John's,N
+1987,1,18,NYK,Mark,Jackson,JacksMa01,St. Johns,N
 1987,1,19,LAC,Ken,Norman,NormaKe01,Illinois,N
 1987,1,20,DAL,Jim,Farmer,FarmeJi01,Alabama,N
 1987,1,21,Atl,Dallas,Comegys,ComegDa01,DePaul,N
@@ -7511,7 +7511,7 @@
 1987,3,20,DAL,Mike,Richmond,,Texas-El Paso,N
 1987,3,21,Atl,Song,Tao,,None (China),N
 1987,3,22,UTA,Billy,Donovan,DonovBi01,Providence,N
-1987,3,23,LAL,Willie,Glass,,St. John's,N
+1987,3,23,LAL,Willie,Glass,,St. Johns,N
 1987,4,1,Bos,Tom,Sheehey,,Virginia,N
 1987,4,2,NYK,Mike,Morgan,,Drake,N
 1987,4,3,NJN,Andrew,Moten,,Florida,N
@@ -7583,7 +7583,7 @@
 1987,6,24,LAL,Frank,Ford,,Auburn,N
 1987,7,1,LAC,Henry,Carr,,Wichita State,N
 1987,7,2,NJN,Frank,Booker,,Bowling Green,N
-1987,7,3,NYK,Wayne,Williams,,St. Joseph's,N
+1987,7,3,NYK,Wayne,Williams,,St. Josephs,N
 1987,7,4,SAS,Raynard,Davis,,Texas,N
 1987,7,5,Sac,Scott,Adubato,,Upsala,N
 1987,7,6,CLE,Michael,Foster,,South Carolina,N
@@ -7630,7 +7630,7 @@
 1988,1,24,Bos,Brian,Shaw,ShawBr01 ,UC Santa Barbara,N
 1988,1,25,LAL,David,Rivers,RiverDa01,Notre Dame,N
 1988,2,1,POR,Rolando,Ferreira,FerreRo01,Houston,N
-1988,2,2,SAS,Shelton,Jones,JonesSh01,St. John's,N
+1988,2,2,SAS,Shelton,Jones,JonesSh01,St. Johns,N
 1988,2,3,PHO,Andrew,Lang,LangAn01 ,Arkansas,N
 1988,2,4,Sac,Vinny,Del Negro,DelNeVi01,North Carolina State,N
 1988,2,5,Det,Fennis,Dembo,DemboFe01,Wyoming,N
@@ -7753,7 +7753,7 @@
 1990,1,18,Sac,Duane,Causwell,CauswDu01,Temple,N
 1990,1,19,Bos,Dee,Brown,BrownDe01,Jacksonville,N
 1990,1,20,MIN,Gerald,Glass,GlassGe01,Mississippi,N
-1990,1,21,PHO,Jayson,Williams,WilliJa01,St. John's,N
+1990,1,21,PHO,Jayson,Williams,WilliJa01,St. Johns,N
 1990,1,22,NJN,Tate,George,GeorgTa01,Connecticut,N
 1990,1,23,Sac,Anthony,Bonner,BONNEAN01,St. Louis,N
 1990,1,24,SAS,Dwayne,Schintzius,SchinDu01,Florida,N
@@ -7854,7 +7854,7 @@
 1992,1,11,HOU,Robert,Horry,HorryRo01,Alabama,N
 1992,1,12,Mia,Harold,Miner,MinerHa01,USC,N
 1992,1,13,Den,Bryant,Stith,StithBr01,Virginia,N
-1992,1,14,Ind,Malik,Sealy,SealyMa01,St. John's,N
+1992,1,14,Ind,Malik,Sealy,SealyMa01,St. Johns,N
 1992,1,15,LAL,Anthony,Peeler,PeeleAn01,Missouri,N
 1992,1,16,LAC,Randy,Woods,WoodsRa01,La Salle,N
 1992,1,17,Sea,Doug,Christie,ChrisDo01,Pepperdine,N
@@ -7886,7 +7886,7 @@
 1992,2,16,GSW,Predrag,Danilovic,DanilPr01,Partizan,N
 1992,2,17,SAS,Henry,Williams,,North Carolina-Charlotte,N
 1992,2,18,Sea,Chris,King,KingCh01 ,Wake Forest,N
-1992,2,19,Den,Robert,Werdann,WerdaRo01,St. John's,N
+1992,2,19,Den,Robert,Werdann,WerdaRo01,St. Johns,N
 1992,2,20,Bos,Darren,Morningstar,MorniDa01,Pittsburgh,N
 1992,2,21,PHO,Brian,Davis,DavisBr02,Duke,N
 1992,2,22,PHO,Ron,Ellis,,Louisiana Tech,N
@@ -7989,9 +7989,9 @@
 1994,2,11,CHA,Darrin,Hancock,HancoDa01,Kansas,N
 1994,2,12,GSW,Anthony,Miller,MilleAn01,Michigan State,N
 1994,2,13,Mia,Jeff,Webster,WebstJe01,Oklahoma,N
-1994,2,14,Ind,William,Njoku,,St Mary's (Canada),N
+1994,2,14,Ind,William,Njoku,,St Marys (Canada),N
 1994,2,15,CLE,Gary,Collier,,Tulsa,N
-1994,2,16,POR,Shawnelle,Scott,ScottSh01,St John's,N
+1994,2,16,POR,Shawnelle,Scott,ScottSh01,St Johns,N
 1994,2,17,Ind,Damon,Bailey,,Indiana,N
 1994,2,18,GSW,Dwayne,Morton,MortoDw01,Louisville,N
 1994,2,19,Mil,Voshon,Lenard,LenarVo01,Minnesota,N
@@ -8081,7 +8081,7 @@
 1996,1,18,NYK,John,Wallace,WallaJo01,Syracuse,N
 1996,1,19,NYK,Walter,McCarty,McCarWa01,Kentucky,N
 1996,1,20,CLE,Zydrunas,Ilgauskas,IlgauZy01,Lithuania,N
-1996,1,21,NYK,Dontae',Jones,JonesDo01,Mississippi State,N
+1996,1,21,NYK,Dontae,Jones,JonesDo01,Mississippi State,N
 1996,1,22,Van,Roy,Rogers,RogerRo02,Alabama,N
 1996,1,23,Den,Efthimis,Rentzias,,PAOK Greece,N
 1996,1,24,LAL,Derek,Fisher,FisheDe01,Arkansas-Little Rock,N
@@ -8199,8 +8199,8 @@
 1998,1,21,CHA,Ricky,Davis,DavisRi01,Iowa,N
 1998,1,22,LAC,Brian,Skinner,SkinnBr01,Baylor,N
 1998,1,23,Den,Tyronn,Lue,LueTy01  ,Nebraska,N
-1998,1,24,SAS,Felipe,Lopez,LopezFe01,St. John's,N
-1998,1,25,Ind,Al,Harrington,HarriAl01,St. Patrick's HS,N
+1998,1,24,SAS,Felipe,Lopez,LopezFe01,St. Johns,N
+1998,1,25,Ind,Al,Harrington,HarriAl01,St. Patricks HS,N
 1998,1,26,LAL,Sam,Jacobson,JacobSa01,Minnesota,N
 1998,1,27,Sea,Vladimir,Stepania,StepaVl01,Slovenia,N
 1998,1,28,Chi,Corey,Benjamin,BenjaCo01,Oregon State,N
@@ -8249,7 +8249,7 @@
 1999,1,13,Sea,Corey,Maggette,MaggeCo01,Duke,N
 1999,1,14,MIN,William,Avery,AveryWi01,Duke,N
 1999,1,15,NYK,Frederic,Weis,,France,N
-1999,1,16,Chi,Ron,Artest,ArtesRo01,St. John's,N
+1999,1,16,Chi,Ron,Artest,ArtesRo01,St. Johns,N
 1999,1,17,Atl,Cal,Bowdler,BowdlCa01,Old Dominion,N
 1999,1,18,Den,James,Posey,PoseyJa01,Xavier,N
 1999,1,19,UTA,Quincy,Lewis,LewisQu01,Minnesota,N
@@ -8284,7 +8284,7 @@
 1999,2,19,Mil,Galen,Young,,UNC-Charlotte,N
 1999,2,20,Chi,Lari,Ketner,KetneLa01,Massachusetts,N
 1999,2,21,HOU,Venson,Hamilton,,Nebraska,N
-1999,2,22,Van,Antwain,Smith,,St. Paul's (VA),N
+1999,2,22,Van,Antwain,Smith,,St. Pauls (VA),N
 1999,2,23,POR,Roberto,Bergersen,,Boise State,N
 1999,2,24,Mia,Rodney,Buford,BuforRo01,Creighton,N
 1999,2,25,Det,Melvin,Levett,,Cincinnati,N
@@ -8319,7 +8319,7 @@
 2000,1,25,PHO,Iakovos,Tsakalidis,TsakaIa01,Greece,N
 2000,1,26,Den,Mamadou,NDiaye,NDiayMa02,Auburn,N
 2000,1,27,Ind,Primoz,Brezec,BrezePr01,Slovenia,N
-2000,1,28,POR,Erick,Barkley,BarklEr01,St. John's,N
+2000,1,28,POR,Erick,Barkley,BarklEr01,St. Johns,N
 2000,1,29,LAL,Mark,Madsen,MadseMa01,Stanford,N
 2000,2,1,LAC,Marko,Jaric,JaricMa01,Italy,N
 2000,2,2,HOU,Dan,Langhi,LanghDa01,Vanderbilt,N
@@ -8330,7 +8330,7 @@
 2000,2,7,NJN,Soumalia,Samake,SamakSo01,Slovenia,N
 2000,2,8,Mia,Eddie,House,HouseEd01,Arizona State,N
 2000,2,9,DAL,Eduardo,Najera,NajerEd01,Oklahoma,N
-2000,2,10,NYK,Lavor,Postell,PosteLa01,St. John's,N
+2000,2,10,NYK,Lavor,Postell,PosteLa01,St. Johns,N
 2000,2,11,Atl,Hanno,Mottola,MottoHa01,Utah,N
 2000,2,12,SAS,Chris,Carrawell,,Duke,N
 2000,2,13,Sea,Olumide,Oyedeji,OyedeOl01,Nigeria,N
@@ -8380,7 +8380,7 @@
 2001,1,28,SAS,Tony,Parker,PARKETO01,None,N
 2001,2,1,CHI,Trenton,Hassell,HASSETR01,Austin Peay,N
 2001,2,2,GSW,Gilbert,Arenas,ARENAGI01,Arizona,N
-2001,2,3,ORL,Omar,Cook,,St. John's,N
+2001,2,3,ORL,Omar,Cook,,St. Johns,N
 2001,2,4,VAN,Willie,Solomon,SOLOMWI01,Clemson,N
 2001,2,5,ATL,Terence,Morris,MORRITE01,Maryland,N
 2001,2,6,NJN,Brian,Scalabrine,SCALABR01,USC,N
@@ -8539,13 +8539,13 @@
 2004,1,15,BOS,Al,Jefferson,,Prentiss HS (MS) ,N
 2004,1,16,UTA,Kirk,Snyder,,Nevada,N
 2004,1,17,ATL,Josh,Smith,,Oak Hill Academy HS (VA),N
-2004,1,18,NOH,JR,Smith,,St. Benedict's Prep (NJ)  ,N
+2004,1,18,NOH,JR,Smith,,St. Benedicts Prep (NJ)  ,N
 2004,1,19,MIA,Dorell,Wright,,South Kent HS (CT) ,N
-2004,1,20,DEN,Jameer,Nelson,,St. Joe's,N
+2004,1,20,DEN,Jameer,Nelson,,St. Joes,N
 2004,1,21,UTA,Pavel,Podkolzine,,Varese (Italy) ,N
 2004,1,22,NJN,Viktor,Khryapa,,CSKA Moscow (Russia) ,N
 2004,1,23,POR,Sergei,Monia,,CSKA Moscow (Russia) ,N
-2004,1,24,BOS,Delonte,West,,St. Joe's,N
+2004,1,24,BOS,Delonte,West,,St. Joes,N
 2004,1,25,BOS,Tony,Allen,,Oklahoma State,N
 2004,1,26,SAC,Kevin,Martin,,Western Carolina,N
 2004,1,27,LAL,Sasha,Vujacic,,Slovenia,N

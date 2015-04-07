@@ -112,8 +112,8 @@ playerPlayoff_data<-playerPlayoff.hdfs$val
 
 #****************** playerPlayoffCareer *********
 playerPlayoffCareer.col.classes <-
-  c(ilkid="factor",year="integer",firstname="factor",lastname="factor",team="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
-    dreb="integer", oreb="integer", asts="integer", stl="integer", blk="integer", turnover="integer", pf="integer", fga="integer", 
+  c(ilkid="factor",firstname="factor",lastname="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
+    dreb="integer", oreb="integer", reb="integer",asts="integer", stl="integer", blk="integer", turnover="integer", pf="integer", fga="integer", 
     fgm="integer", fta="integer", ftm="integer", tpa="integer", tpm="integer"
   )
 playerPlayoffCareer.in.format <-
@@ -121,7 +121,7 @@ playerPlayoffCareer.in.format <-
     "csv",
     sep = ",",
     colClasses = playerPlayoffCareer.col.classes,
-    col.names = names(playerPlayoffCareerC.col.classes)
+    col.names = names(playerPlayoffCareer.col.classes)
   )
 
 #playerPlayoffCareer
@@ -148,8 +148,8 @@ playerRegularSeason_data<-playerRegularSeason.hdfs$val
 
 #****************** playerRegularSeasonCareer ****************
 playerRegularSeasonCareer.col.classes <-
-  c(ilkid="factor",year="integer",firstname="factor",lastname="factor",team="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
-    dreb="integer", oreb="integer", asts="integer", stl="integer", blk="integer", turnover="integer", pf="integer", fga="integer", 
+  c(ilkid="factor",firstname="factor",lastname="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
+    oreb="integer", dreb="integer", reb="integer",asts="integer", stl="integer", blk="integer", turnover="integer", pf="integer", fga="integer", 
     fgm="integer", fta="integer", ftm="integer", tpa="integer", tpm="integer"
   )
 playerRegularSeasonCareer.in.format <-
@@ -168,8 +168,8 @@ playerRegularSeasonCareer_data<-playerRegularSeasonCareer.hdfs$val
 #****************** PLAYER *********************
 # define for data format for player
 player.col.classes <-
-  c(ilkid="factor", firstname="factor", lastname="factor", position="factor", firstseason="integer", lastseason="integer", h_feet="integer", h_inches="integer", 
-    weight="integer", college="factor", birthdate="factor"
+  c(ilkid="factor", firstname="factor", lastname="factor", position="factor", firstseason="integer", lastseason="integer", h_feet="double", h_inches="double", 
+    weight="double", college="factor", birthdate="factor"
   )
 player.in.format <- 
   make.input.format(
@@ -205,7 +205,7 @@ team_data<-team.hdfs$val
 #***************** teamSeason *******************
 teamSeason.col.classes <- 
   c(team="factor",year="integer",leag="factor",o_fgm="integer",o_fga="integer",o_ftm="integer",o_fta="integer",o_oreb="integer",o_dreb="integer",o_reb="integer", o_asts="integer",
-    o_pf="integer", o_stl="integer", o_to="integer", o_blk="integer", o_3pm="integer", o_3pa="integer", o_pts="integers", d_fgm="integer", d_fga="integer", d_ftm="integer",
+    o_pf="integer", o_stl="integer", o_to="integer", o_blk="integer", o_3pm="integer", o_3pa="integer", o_pts="integer", d_fgm="integer", d_fga="integer", d_ftm="integer",
     d_fta="integer", d_oreb="integer", d_dreb="integer", d_reb="integer",d_asts="integer",d_pf="integer", d_stl="integer", d_to="integer", d_blk="integer", d_3pm="integer",
     d_3pa="integer", d_pts="integer", pace="double", won="integer", lost="integer"
   )

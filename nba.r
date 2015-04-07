@@ -57,23 +57,23 @@ coachSeason.in.format <-
 coachSeason.hdfs<-from.dfs('/user/biadmin/coachseason.csv',format=coachSeason.in.format)
 coachSeason_data<-coachSeason.hdfs$val
 
+total <- merge(coachesCareer_data,coachSeason_data,by="coachid")
+
 #****************** Draft *********************
-#draft.col.classes <-
- # c(draft_year ="integer",   draft_round ="integer",  selection ="integer",  team ="factor",    firstname ="factor",
-  #  lastname ="factor",   ilkid ="factor", draft_from ="factor", leag ="factor"
-  #)
-#draft.in.format <-
- # make.input.format(
-  #  "csv",
-  #  sep = ",",
-  #  colClasses = draft.col.classes,
-  #  col.names = names(draft.col.classes)
- # )
+draft.col.classes <-
+ c(draft_year ="integer",   draft_round ="integer",  selection ="integer",  team ="factor",    firstname ="factor",
+   lastname ="factor",   ilkid ="factor", draft_from ="factor", leag ="factor"
+  )
+draft.in.format <-
+  make.input.format(
+    "csv",
+    sep = ",",
+    colClasses = draft.col.classes,
+    col.names = names(draft.col.classes)
+  )
 
-#draft
-#draft.hdfs<-from.dfs('/user/biadmin/draft.csv',format=draft.in.format)
-#draft_data<-draft.hdfs$val
-
+draft.hdfs<-from.dfs('/user/biadmin/draft.csv',format=draft.in.format)
+draft_data<-draft.hdfs$val
 #***************** playerAllstar ***************
 playerAllstar.col.classes <-
  c(ilkid="factor",year="integer",firstname="factor",lastname="factor",conference="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
@@ -87,11 +87,10 @@ playerAllstar.in.format <-
     colClasses = playerAllstar.col.classes,
     col.names = names(playerAllstar.col.classes)
   )
-
 #playerAllstar
 playerAllstar.hdfs<-from.dfs('/user/biadmin/playerallstar.csv',format=playerAllstar.in.format)
 playerAllstar_data<-playerAllstar.hdfs$val
-
+#ilkid <- merge(draft_data,playerAllstar_data,by="ilkid")
 #***************** playerPlayoff ****************
 playerPlayoff.col.classes <-
   c(ilkid="factor",year="integer",firstname="factor",lastname="factor",team="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
@@ -131,7 +130,7 @@ playerPlayoffCareer_data<-playerPlayoffCareer.hdfs$val
 #****************** playerRegularSeason **********
 playerRegularSeason.col.classes <-
   c(ilkid="factor",year="integer",firstname="factor",lastname="factor",team="factor",leag="factor",gp="integer",minutes="integer",pts="integer",
-    dreb="integer", oreb="integer", asts="integer", stl="integer", blk="integer", turnover="integer", pf="integer", fga="integer", 
+    oreb="integer", dreb="integer", reb="integer", asts="integer", stl="integer", blk="integer", turnover="integer", pf="integer", fga="integer", 
     fgm="integer", fta="integer", ftm="integer", tpa="integer", tpm="integer"
   )
 playerRegularSeason.in.format <-
@@ -165,11 +164,12 @@ playerRegularSeasonCareer.hdfs<-from.dfs('/user/biadmin/playerregularseasoncaree
 playerRegularSeasonCareer_data<-playerRegularSeasonCareer.hdfs$val
 
 
+
 #****************** PLAYER *********************
 # define for data format for player
 player.col.classes <-
   c(ilkid="factor", firstname="factor", lastname="factor", position="factor", firstseason="integer", lastseason="integer", h_feet="double", h_inches="double", 
-    weight="double", college="factor", birthdate="factor"
+    weight="double", college="factor", birthdate ="factor"
   )
 player.in.format <- 
   make.input.format(
@@ -182,6 +182,11 @@ player.in.format <-
 #player
 player.hdfs<-from.dfs('/user/biadmin/player.csv',format=player.in.format)
 player_data<-player.hdfs$val
+##Merging all ilkid data
+playoff<- merge(playerPlayoff_data,playerPlayoffCareer_data,by="ilkid")
+regularseason<- merge(playerRegularSeason_data,playerRegularSeasonCareer_data,by="ilkid")
+#allstar<- merge(player_data,playerAllstar_data,by="ilkid")
+#finalilkid <- merge(bigilkid,bigilkid2,by="ilkid")
 
 #****************** TEAM ***********************
 
@@ -220,3 +225,9 @@ teamSeason.in.format <-
 #teamSeason
 teamSeason.hdfs<-from.dfs('/user/biadmin/teamseason.csv',format=teamSeason.in.format)
 teamSeason_data<-teamSeason.hdfs$val
+
+teamstats<- merge(team_data,teamSeason_data,by="team")
+
+playoffteam<- merge(teamstats, playoff, by="team")
+regularteam<- merge(regularseason, teamstats, by="team")
+coachteam<- merge(coachSeason_data,teamstats, by="team")

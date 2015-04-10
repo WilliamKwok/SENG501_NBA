@@ -50,3 +50,13 @@ nba.in.format <-
 #coachesCareer
 nba.hdfs<-from.dfs('/user/group7/project/nba3.csv',format=nba.in.format)
 nba_data<-nba.hdfs$val
+
+Unique.nba.id.mapreduce <- mapreduce(input='/user/group7/project/nba3.csv', input.format=nba.in.format,
+                                     map = function(k,v) {keyval(unlist(subset(v,select = 
+                                     c("id"))),1)},
+                                     reduce =function(k,v){keyval(k,sum(v))},
+                                     combine=TRUE)
+Unique.nba.id.mapreduce.Val <-(from.dfs(Unique.nba.id.mapreduce))
+names(Unique.nba.id.mapreduce.Val)[1] <-"id"
+names(Unique.nba.id.mapreduce.Val)[2] <-"count"
+View(Unique.nba.id.mapreduce.Val)
